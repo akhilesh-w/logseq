@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "2abbd69630818c1f",
+        "id": "ef883520f61ae4a1",
         "type": "tabs",
         "children": [
           {
-            "id": "bd6c80251ed398da",
+            "id": "a7939188b0f694a1",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -58,6 +58,14 @@
             "type": "leaf",
             "state": {
               "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "6a068e53d18cf95b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
               "state": {}
             }
           }
@@ -138,6 +146,6 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bd6c80251ed398da",
+  "active": "a7939188b0f694a1",
   "lastOpenFiles": []
 }
