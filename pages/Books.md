@@ -8,5 +8,4 @@
 	- [[Broken Wings]]
 	- [[The Madman]]
 	- [[The Voice of the Master]]
-	-
 -
