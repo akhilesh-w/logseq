@@ -7,5 +7,7 @@
     max-width: none;
 }
 
-
-.references.mt-6
+/* This code stub is used to hise the references block from the page */
+.references.mt-6.flex-1.flex-row {
+    display: none;
+}
