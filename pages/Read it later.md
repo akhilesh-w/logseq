@@ -1,4 +1,6 @@
 - Raindrop
 - Pocket
 - Omniverse
+- Readwise Reader
+- Matter
 -
