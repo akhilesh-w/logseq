@@ -163,7 +163,7 @@
             [?h :block/marker ?marker]
             (or [?h :block/scheduled ?d]
             [?h :block/deadline ?d])
-            [(contains? #{"TODO" "DOING" "NOW" "LAter"} ?marker)]
+            [(contains? #{"TODO" "DOING" "NOW" "LATER" "WAITING"} ?marker)]
             [?h :block/page ?p]
             [?p :block/journal? true]
             [?p :block/journal-day ?d]
