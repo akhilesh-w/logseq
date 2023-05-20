@@ -190,13 +190,14 @@
 
  ;; Add your own commands to slash menu to speedup.
  ;; E.g.
- ;; :commands
- ;; [
- ;; ["js" "Javascript"]
- ;; ["md" "Markdown"]
- ;; ]
  :commands
- []
+ [
+ ["js" "Javascript"]
+ ["md" "Markdown"]
+ ["name" "Akhilesh Waghmare"]
+ ]
+;;  :commands
+;;  []
 
  ;; By default, a block can only be collapsed if it has some children.
  ;; `:outliner/block-title-collapse-enabled? true` enables a block with a title
@@ -315,6 +316,6 @@
  ;;     ;use triple underscore `___` for slash `/` in page title
  ;;     ;use Percent-encoding for other invalid characters
  :file/name-format :triple-lowbar
- :journal/page-title-format "dd_mm_yyyy"
+ :journal/page-title-format "MM_dd_yyyy"
  :graph/settings {:journal? true, :builtin-pages? true}
  }
