@@ -164,11 +164,7 @@
             (or [?h :block/scheduled ?d]
             [?h :block/deadline ?d])
             [(contains? #{"TODO" "DOING" "NOW" "LATER" "WAITING"} ?marker)]
-            [?h :block/page ?p]
-            [?p :block/journal? true]
-            [?p :block/journal-day ?d]
             [(>= ?d ?start)]
-            [(<= ?d ?today)]]
     :inputs [:14d :today]
     :result-transform (fn [result]
                         (sort-by (fn [h]
