@@ -1,0 +1,3 @@
+- Bold - **data**  ->
+- italic - *italic*
+- link - [link]()
