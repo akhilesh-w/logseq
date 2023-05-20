@@ -1,4 +1,6 @@
 - Bold - **data**  - ctrl + b
 - italic - *italic*  - ctrl + i
 - link - [link]()  - ctrl + l
-- kind of Highlight -
+- kind of Highlight - `highlight`
+- kind of highlight - ``highlight``
+- code stub - ```Pythob```
