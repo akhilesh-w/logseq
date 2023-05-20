@@ -4,6 +4,7 @@
 	- Integrates with obsidian & logseq
 	- free and opensource
 	- highlight has only yellow colour
+	- Has PDF reader
 - Readwise Reader
 	- Gonna be paid soon
 - Matter
