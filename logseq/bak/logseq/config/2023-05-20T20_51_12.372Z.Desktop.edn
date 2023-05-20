@@ -156,11 +156,13 @@
                                    (get h :block/priority "Z")) result))
     :collapsed? false}
 
-    {:title "🔥 NOW"
+    {:title "🔥 OVERDUE"
     :query [:find (pull ?h [*])
-            :in $ ?start ?today
+            :in $ ?start ?next
             :where
             [?h :block/marker ?marker]
+            (or [?h :block/scheduled ?d]
+            [?h :block/deadline ?d])
             [(contains? #{"NOW" "DOING"} ?marker)]
             [?h :block/page ?p]
             [?p :block/journal? true]
