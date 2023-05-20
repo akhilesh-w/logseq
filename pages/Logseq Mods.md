@@ -1,3 +1,4 @@
+- Creates Overdue task panel and shows the task which is overdue in the overdue task panelwhen the scheduled task is overdue
 - ```closure
       {:title "🔥 OVERDUE"
       :query [:find (pull ?h [*])
@@ -16,4 +17,3 @@
       :collapsed? false
       :breadcrumb-show? false}
   ```
-- Added the Overdue
