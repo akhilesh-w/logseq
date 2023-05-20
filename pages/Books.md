@@ -2,7 +2,7 @@
 	- [[The picture of Dorian Gray]]
 	- [[The plays of Oscar Wilde]]
 	- [[An Ideal husband]]
-	-
+-
 - [[Kahlil Gibran]]
 	- [[The Prophet]]
 	- [[Broken Wings]]
@@ -10,5 +10,7 @@
 	- [[The Voice of the Master]]
 -
 - [[Adolf hitler]]
--
--
+	- Adolf was from Germany
+		- Germany is a nice country
+		- I'd love to go to Germany someday
+			-
