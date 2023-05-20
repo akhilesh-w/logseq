@@ -1,6 +1,8 @@
 - Raindrop
 - Pocket
 - Omniverse
+	- Integrates with obsidian & logseq
+	- free and opensource
 - Readwise Reader
 - Matter
 -
