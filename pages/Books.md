@@ -1,5 +1,6 @@
 - [[Books by Oscar Wilde]]
 	- [[The picture of Dorian Gray]]
-	-
+	- [[The plays of Oscar Wilde]]
+	- [[An Ideal husband]]
 	-
 -
