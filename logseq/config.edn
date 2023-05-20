@@ -161,6 +161,7 @@
             :in $ ?start ?next
             :where
             [?h :block/marker ?marker]
+            (or [?h :bllock/marker ])
             [(contains? #{"NOW" "DOING"} ?marker)]
             [?h :block/page ?p]
             [?p :block/journal? true]
