@@ -1,3 +1,4 @@
-- Bold - **data**  ->
-- italic - *italic*
-- link - [link]()
+- Bold - **data**  - ctrl + b
+- italic - *italic*  - ctrl + i
+- link - [link]()  - ctrl + l
+- kind of Highlight -
