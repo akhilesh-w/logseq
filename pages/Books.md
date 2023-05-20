@@ -9,3 +9,6 @@
 	- [[The Madman]]
 	- [[The Voice of the Master]]
 -
+- [[Adolf hitler]]
+-
+-
