@@ -156,7 +156,10 @@
                                    (get h :block/priority "Z")) result))
     :collapsed? false}
 
-    
+[{:title "🔨 NOW"
+    :query [:find (pull ?h [*])
+            :in $ ?start ?today
+            :where
 
 
    {:title "📅 NEXT"
