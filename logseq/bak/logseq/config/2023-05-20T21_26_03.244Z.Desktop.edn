@@ -155,6 +155,7 @@
                         (sort-by (fn [h]
                                    (get h :block/priority "Z")) result))
     :collapsed? false}
+    
 
     {:title "🔥 OVERDUE"
     :query [:find (pull ?h [*])
@@ -190,13 +191,14 @@
 
  ;; Add your own commands to slash menu to speedup.
  ;; E.g.
- ;; :commands
- ;; [
- ;; ["js" "Javascript"]
- ;; ["md" "Markdown"]
- ;; ]
  :commands
- []
+ [
+ ["js" "Javascript"]
+ ["md" "Markdown"]
+ ["name" "Akhilesh Waghmare"]
+ ]
+;;  :commands
+;;  []
 
  ;; By default, a block can only be collapsed if it has some children.
  ;; `:outliner/block-title-collapse-enabled? true` enables a block with a title
