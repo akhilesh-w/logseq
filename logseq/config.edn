@@ -192,7 +192,7 @@
  ;; E.g.
  ;; :commands
  ;; [
- ;; ["js" "Javascript"]
+ ["js" "Javascript"]
  ;; ["md" "Markdown"]
  ;; ]
  :commands
