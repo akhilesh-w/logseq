@@ -190,13 +190,14 @@
 
  ;; Add your own commands to slash menu to speedup.
  ;; E.g.
- ;; :commands
- ;; [
- ;; ["js" "Javascript"]
- ;; ["md" "Markdown"]
- ;; ]
  :commands
- []
+ [
+ ["js" "Javascript"]
+ ["md" "Markdown"]
+ ["name" "Akhilesh"]
+ ]
+;;  :commands
+;;  []
 
  ;; By default, a block can only be collapsed if it has some children.
  ;; `:outliner/block-title-collapse-enabled? true` enables a block with a title
