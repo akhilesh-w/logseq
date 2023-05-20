@@ -170,7 +170,8 @@
     :result-transform (fn [result]
                         (sort-by (fn [h]
                                    (get h :block/priority "Z")) result))
-    :collapsed? false}
+    :collapsed? false
+    :breadcrumb-show? false}
 
 
    {:title "📅 NEXT"
