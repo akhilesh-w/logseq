@@ -3,4 +3,7 @@
 	- [[The plays of Oscar Wilde]]
 	- [[An Ideal husband]]
 	-
+- [[Kahlil Gibran]]
+	- [[The Prophet]]
+	-
 -
