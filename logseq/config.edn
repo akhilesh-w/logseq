@@ -165,7 +165,7 @@
             [?h :block/deadline ?d])
             [(contains? #{"TODO" "DOING" "NOW" "LATER" "WAITING"} ?marker)]
             [(>= ?d ?start)]
-            [(<= ?d ?next)]
+            [(<= ?d ?next)]]
     :inputs [:365d :1d]
     :result-transform (fn [result]
                         (sort-by (fn [h]
