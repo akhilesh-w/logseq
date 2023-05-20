@@ -3,6 +3,9 @@
 - Omniverse
 	- Integrates with obsidian & logseq
 	- free and opensource
+	- highlight has only yellow colour
 - Readwise Reader
+	- Gonna be paid soon
 - Matter
+	- only for iphone
 -
