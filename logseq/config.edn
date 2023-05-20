@@ -155,6 +155,7 @@
                         (sort-by (fn [h]
                                    (get h :block/priority "Z")) result))
     :collapsed? false}
+    
 
     {:title "🔥 OVERDUE"
     :query [:find (pull ?h [*])
