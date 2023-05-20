@@ -156,8 +156,25 @@
                                    (get h :block/priority "Z")) result))
     :collapsed? false}
 
+    {:title "🔥 OVERDUE"
+    :query [:find (pull ?h [*])
+            :in $ ?start ?next
+            :where
+            [?h :block/marker ?marker]
+            (or [?h :block/marker ])
+            [(contains? #{"NOW" "DOING"} ?marker)]
+            [?h :block/page ?p]
+            [?p :block/journal? true]
+            [?p :block/journal-day ?d]
+            [(>= ?d ?start)]
+            [(<= ?d ?today)]]
+    :inputs [:14d :today]
+    :result-transform (fn [result]
+                        (sort-by (fn [h]
+                                   (get h :block/priority "Z")) result))
+    :collapsed? false}
 
-    
+
    {:title "📅 NEXT"
     :query [:find (pull ?h [*])
             :in $ ?start ?next

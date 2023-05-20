@@ -161,8 +161,7 @@
             :in $ ?start ?next
             :where
             [?h :block/marker ?marker]
-            (or [?h :block/scheduled ?d]
-            [?h :block/deadline ?d])
+            (or [?h :block/scheduled ?d ])
             [(contains? #{"NOW" "DOING"} ?marker)]
             [?h :block/page ?p]
             [?p :block/journal? true]
