@@ -3,4 +3,4 @@
 - link - [link]()  - ctrl + l
 - kind of Highlight - `highlight`
 - kind of highlight - ``highlight``
-- code stub - ```Pythob```
+- code stub - ``````
