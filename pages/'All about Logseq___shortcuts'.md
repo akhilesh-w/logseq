@@ -9,4 +9,5 @@
   ```
 -
 - relatesTo:: [[Kahlil Gibran]]
--
+- title:: [[Kahlil Gibran]]
+- so
