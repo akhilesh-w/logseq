@@ -156,6 +156,7 @@
                                    (get h :block/priority "Z")) result))
     :collapsed? false}
 
+
     {:title "🔥 OVERDUE"
     :query [:find (pull ?h [*])
             :in $ ?start ?next
@@ -186,7 +187,8 @@
             [(> ?d ?start)]
             [(< ?d ?next)]]
     :inputs [:today :7d-after]
-    :collapsed? false}]}
+    :collapsed? false
+    :breadcrumb-show? false}]}
 
  ;; Add your own commands to slash menu to speedup.
  ;; E.g.
@@ -318,4 +320,5 @@
  :file/name-format :triple-lowbar
  :journal/page-title-format "MM_dd_yyyy"
  :graph/settings {:journal? true, :builtin-pages? true}
+ :ui/show-brackets? true
  }
