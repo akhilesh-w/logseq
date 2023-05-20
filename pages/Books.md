@@ -5,5 +5,8 @@
 	-
 - [[Kahlil Gibran]]
 	- [[The Prophet]]
+	- [[Broken Wings]]
+	- [[The Madman]]
+	- [[The Voice of the Master]]
 	-
 -
