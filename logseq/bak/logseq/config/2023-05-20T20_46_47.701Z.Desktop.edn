@@ -156,7 +156,7 @@
                                    (get h :block/priority "Z")) result))
     :collapsed? false}
 
-    {:title "🔥 OVERDUE"
+    {:title "🔨 NOW"
     :query [:find (pull ?h [*])
             :in $ ?start ?today
             :where
