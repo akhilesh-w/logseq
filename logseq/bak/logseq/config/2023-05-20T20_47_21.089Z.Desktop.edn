@@ -158,7 +158,7 @@
 
     {:title "🔥 OVERDUE"
     :query [:find (pull ?h [*])
-            :in $ ?start ?next
+            :in $ ?start ?today
             :where
             [?h :block/marker ?marker]
             [(contains? #{"NOW" "DOING"} ?marker)]
