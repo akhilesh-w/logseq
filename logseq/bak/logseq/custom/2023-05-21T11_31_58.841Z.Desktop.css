@@ -14,7 +14,7 @@
 
 /* This code stub is used to highlight the lines with custom colours by just tagging them with the data-ref. 
 So, now any block tagged with #cr will have a red background, #cy will have a yellow background, etc. */
-
+/*
 Red = Hex code: #FFADAD
 Orange = Hex code: #FFD6A5
 Yellow = Hex code: #FDFFB6
@@ -22,7 +22,7 @@ Green = Hex code: #CAFFBF
 Blue = Hex code: #9BF6FF
 Purple = Hex code: #BDB2FF
 Gray = Hex code: #DFDFDF
-
+*/
 div.block-content-inner:has(a.tag[data-ref="cr"]) {background-color: #FFADAD}
 div.block-content-inner:has(a.tag[data-ref="co"]) {background-color: #FFD6A5}
 div.block-content-inner:has(a.tag[data-ref="cy"]) {background-color: #FDFFB6}
