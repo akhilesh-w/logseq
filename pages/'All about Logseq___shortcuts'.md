@@ -12,3 +12,5 @@
 - title:: [[Kahlil Gibran]]
 - so I can put anything here like relates to or title or something else
 -
+- x_{sub} x^{super}
+-
