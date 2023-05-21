@@ -14,4 +14,6 @@
 - Antonio Spurs, one of the most successful teams in NBA history, have a quote from social reformer Jacob Riis hanging in their locker room:
 - *“When nothing seems to help, I go and look at a stonecutter hammering away at his rock, perhaps a hundred times without as much as a crack showing in it. Yet at the hundred and first blow it will split in two, and I know it was not that last blow that did it—but all that had gone before.”*
 -
+- Adopt a systems-first approach instead of focusing on goals
+- Goals are about the results you want to achieve. Systems are about the processes that lead to those results.
 -
