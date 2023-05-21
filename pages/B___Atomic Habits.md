@@ -38,3 +38,6 @@
 -
 - The vital thing in getting a habit to stick is to feel successful—even if it’s in a small way. The feeling of success is a signal that your habit paid off and that the work was worth the effort. In a perfect world, the reward for a good habit is the habit itself. In the real world, good habits tend to feel worthwhile only after they have provided you with something. Early on, it’s all sacrifice. You’ve gone to the gym a few times, but you’re not stronger or fitter or faster—at least, not in any noticeable sense. It’s only months later, once you shed a few pounds or your arms gain some definition, that it becomes easier to exercise for its own sake. In the beginning, you need a reason to stay on track. This is why immediate rewards are essential. They keep you excited while the delayed rewards accumulate in the background.
 -
+- `The first mistake is never the one that ruins you. It is the spiral of repeated mistakes that follows. Missing once is an accident. Missing twice is the start of a new habit.`
+-
+-
