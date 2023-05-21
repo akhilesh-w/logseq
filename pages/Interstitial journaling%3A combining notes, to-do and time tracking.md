@@ -14,9 +14,7 @@
 - If you’re a Roam Research user, let’s see how you can easily set it up there. I’m saying “setting it up”, but really… The work has been done for you already.
 - ## Keeping an interstitial journal in Roam Research
 - In my [beginner’s guide to Roam](https://nesslabs.com/roam-research-beginner-guide), I completely left out the Daily Notes section to keep things simple. Let’s now have a look together. This is what a daily note with interstitial journaling looks like.
-- #+BEGIN_EXPORT hiccup
-  [:figure {} [:img {:sizes "(max-width: 674px) 100vw, 674px", :srcset "https://nesslabs.com/wp-content/uploads/2020/04/interstitial-journaling-example.png 674w, https://nesslabs.com/wp-content/uploads/2020/04/interstitial-journaling-example-282x300.png 282w", :alt "", :width "674", :src "https://nesslabs.com/wp-content/uploads/2020/04/interstitial-journaling-example.png", :decoding "async", :height "717"}]]
-  #+END_EXPORT
+- ![image](https://nesslabs.com/wp-content/uploads/2020/04/interstitial-journaling-example.png)
 - **Track time.** Type */time* to insert the current time, then type whatever you are thinking about.
 - **Track tasks.** Type */todo* to create to-do items. Check off these to-do items when done.
 - **Track content.** When you stumble upon something interesting that would disturb your workflow, add it to master lists such as [[To read]]. You can see I have done it in this screenshot with an interesting-looking article that had nothing to do with the essay I was trying to write.
