@@ -7,4 +7,4 @@
 	- But when we repeat 1 percent errors, day after day, by replicating poor decisions, duplicating tiny mistakes, and rationalizing little excuses, our small choices compound into toxic results.
 - Favorite highlights
 - Success is the product of daily habits - not once-in-lifetime transformation.
-- Your outcomes are a lagging measure of your habits. Your new worth is a lagging
+- Your outcomes are a lagging measure of your habits. Your net worth is a lagging measure of your financial habits. Your weight is a lagging measure of
