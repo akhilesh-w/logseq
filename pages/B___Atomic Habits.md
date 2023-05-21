@@ -9,4 +9,4 @@
 - Success is the product of daily habits - not once-in-lifetime transformation.
 - Your outcomes are a lagging measure of your habits. Your net worth is a lagging measure of your financial habits. Your weight is a lagging measure of your eating habits. Your knowledge is a lagging measure of your learning habits. Your cluster is a lagging measure of your cleaning habits. You get what you repeat.
 - Time magnifies the margin between success and failure. It will multiply whatever you feed it. Good habits make time your ally. Bad habits make time your enemy.
-- If you find
+- If you find yourself struggling to build a good habit or break a bad one, it is not because you have lost your ability to improve. It is often
