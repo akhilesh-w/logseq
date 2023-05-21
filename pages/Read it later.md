@@ -1,6 +1,6 @@
 - Raindrop
 - Pocket
-- Omniverse
+- Omnivore
 	- Integrates with obsidian & logseq
 	- free and opensource
 	- highlight has only yellow colour
