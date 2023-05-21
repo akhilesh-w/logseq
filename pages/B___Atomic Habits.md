@@ -40,4 +40,4 @@
 -
 - `The first mistake is never the one that ruins you. It is the spiral of repeated mistakes that follows. Missing once is an accident. Missing twice is the start of a new habit.`
 -
--
+- You don’t realise how valuable it is to just show up on your bad (or busy) days. Lost days hurt you more than successful days help you. If you start with $100, then a 50 percent gain will take you to $150. But you only need a 33 percent loss to take you back to $100. In other words, avoiding a 33 percent loss is just as valuable as achieving a 50 percent gain. As Charlie Munger says, “The first rule of compounding: Never interrupt it unnecessarily.”
