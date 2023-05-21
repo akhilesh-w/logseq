@@ -1,3 +1,2 @@
-author:: [[Ryan Holiday]]
-
+- author: [[Ryan Holiday]]
 -

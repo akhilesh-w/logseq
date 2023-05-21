@@ -1,3 +1,2 @@
-author::  [[Ali Abdaal]]
-
+- author:  [[Ali Abdaal]]
 -

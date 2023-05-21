@@ -1,3 +1,2 @@
-author:: [[Farnaam Street]]
-
+- author [[Farnaam Street]]
 -
