@@ -1,1 +1,2 @@
-- DAO (Decentralized Autonomous Organization) and refers to a self-governing entity that operates through smart contracts on a blockchain, without the need for centralized control.
+- DAOs (Decentralized Autonomous Organizations) is a self-governing entity that operates through smart contracts on a blockchain, without the need for centralized control.
+-
