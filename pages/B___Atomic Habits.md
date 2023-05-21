@@ -24,4 +24,5 @@
 		- - The goal is not to learn an instrument, the goal is to become a musician.
 	- *Over the long run, however, the real reason you fail to stick with habits is that your self-image gets in the way. This is why you can’t get too attached to one version of your identity. Progress requires unlearning. Becoming the best version of yourself requires you to continuously edit your beliefs, and to upgrade and expand your identity.*
 	- *Your identity emerges out of your habits. You are not born with preset beliefs. Every belief, including those about yourself, is learned and conditioned through experience.*
+	- *Every action you take is a vote for the type of person you wish to become.*
 	-
