@@ -11,7 +11,7 @@
             "id": "a7939188b0f694a1",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {}
             }
           }
@@ -73,7 +73,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 216.5
   },
   "right": {
     "id": "762fadf4c98d6d27",
@@ -146,8 +146,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a7939188b0f694a1",
+  "active": "784ad6c491f25b85",
   "lastOpenFiles": [
+    "2023-05-22.md",
     "pages/Books.md",
     "journals/2023_05_20.md",
     "journals/2023_05_14.md",
