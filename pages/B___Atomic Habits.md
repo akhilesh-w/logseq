@@ -30,4 +30,5 @@
 - **Many people think they lack motivation when what they really lack is clarity. It is not always obvious when and where to take action.**
 -
 - “Disciplined” people are better at structuring their lives in a way that does not require heroic willpower and self-control. In other words, they spend less time in tempting situations.
+- It is easy to get bogged down trying to find the optimal plan for change: the fastest way to lose weight, the best program to build muscle, the perfect idea for a side hustle. We are so focused on figuring out the best approach that we never get around to taking action. As Voltaire once wrote, “The best is the enemy of the good.”
 -
