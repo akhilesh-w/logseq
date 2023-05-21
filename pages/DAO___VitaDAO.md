@@ -1,4 +1,2 @@
--
--
-- [[VitaDAO]]
+- VitaDAO is an open cooperative that anyone can **join**, with the goal to **acquire**, **support**, and **finance** new therapeutics and research data in the **longevity** space.
 -
