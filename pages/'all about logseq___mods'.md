@@ -19,3 +19,4 @@
 	     
 	  ```
 -
+- [Logseq query builder](https://adxsoft.github.io/logseqadvancedquerybuilder/)
