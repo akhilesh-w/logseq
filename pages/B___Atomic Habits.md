@@ -25,7 +25,9 @@
 	- *Over the long run, however, the real reason you fail to stick with habits is that your self-image gets in the way. This is why you can’t get too attached to one version of your identity. Progress requires unlearning. Becoming the best version of yourself requires you to continuously edit your beliefs, and to upgrade and expand your identity.*
 	- *Your identity emerges out of your habits. You are not born with preset beliefs. Every belief, including those about yourself, is learned and conditioned through experience.*
 	- *Every action you take is a vote for the type of person you wish to become.*
+- If you’re still having trouble determining how to rate a particular habit, here is a question I like to use: “Does this behaviour help me become the type of person I wish to be? Does this habit cast a vote for or against my desired identity?” Habits that reinforce your desired identity are usually good. Habits that conflict with your desired identity are usually bad.
 -
 - **Many people think they lack motivation when what they really lack is clarity. It is not always obvious when and where to take action.**
 -
+- “Disciplined” people are better at structuring their lives in a way that does not require heroic willpower and self-control. In other words, they spend less time in tempting situations.
 -
