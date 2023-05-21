@@ -15,7 +15,8 @@
 - *“When nothing seems to help, I go and look at a stonecutter hammering away at his rock, perhaps a hundred times without as much as a crack showing in it. Yet at the hundred and first blow it will split in two, and I know it was not that last blow that did it—but all that had gone before.”*
 -
 - Adopt a systems-first approach instead of focusing on goals
-- Goals are about the results you want to achieve. Systems are about the processes that lead to those results.
-- *You do not rise to the level of your goals. You fall to the level of your systems.*
+	- Goals are about the results you want to achieve. Systems are about the processes that lead to those results.
+	- *You do not rise to the level of your goals. You fall to the level of your systems.*
 - To form good habits, make them a part of your identity
--
+	- Our habits should be a part of our identity and the starting point of building it. Most of us get this wrong – we start with outcomes and work backwards towards our identity. But when a habit comes from who we are, it serves as the best form of intrinsic motivation.
+	-
