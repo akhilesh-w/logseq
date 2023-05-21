@@ -19,4 +19,7 @@
 	- *You do not rise to the level of your goals. You fall to the level of your systems.*
 - To form good habits, make them a part of your identity
 	- Our habits should be a part of our identity and the starting point of building it. Most of us get this wrong – we start with outcomes and work backwards towards our identity. But when a habit comes from who we are, it serves as the best form of intrinsic motivation.
-		-
+		- - The goal is not to read a book, the goal is to become a reader.
+		- - The goal is not to run a marathon, the goal is to become a runner.
+		- - The goal is not to learn an instrument, the goal is to become a musician.
+	- Many people walk through life in a cognitive slumber, blindly following the norms attached to their identity.
