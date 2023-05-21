@@ -10,5 +10,5 @@
 - Matter
 	- only for iphone
 -
-- [HamsterBase](https://hamsterbase.com/)
+- [HamsterBase](https://hamsterbase.com/) is used to Store, manage, and preview HTML, MHTML and Webarchive documents
 -
