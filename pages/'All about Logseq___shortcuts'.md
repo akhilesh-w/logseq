@@ -1,6 +1,7 @@
 - Bold - **data**  - ctrl + b
-- italic - *italic* _italic_ - ctrl + i
+- italic - *italic* , _italic_  - ctrl + i
 - link - [link]()  - ctrl + l
+- strikethrough - ~~strikethrough~~
 - kind of Highlight - `highlight`
 - kind of highlight - ``highlight``
 - code stub -
