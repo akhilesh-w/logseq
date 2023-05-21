@@ -16,4 +16,6 @@
 -
 - Adopt a systems-first approach instead of focusing on goals
 - Goals are about the results you want to achieve. Systems are about the processes that lead to those results.
+- *You do not rise to the level of your goals. You fall to the level of your systems.*
+- To form good habits, make them a part of your identity
 -
