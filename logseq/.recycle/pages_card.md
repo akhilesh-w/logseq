@@ -1,5 +1,4 @@
 - what is singularity? #card
-  collapsed:: true
 	- The term "singularity" has different meanings depending on the context in which it is used. Here are two common uses:
 	- **Technological Singularity:** It refers to a hypothetical future point when artificial intelligence (AI) or other advanced technologies progress to a level where they surpass human intelligence. This concept suggests a potential era of rapid and unpredictable changes, as machines gain the ability to improve themselves and create even more advanced technologies.
 	- **Cosmological Singularity:** In the field of astrophysics, a singularity refers to a point of infinite density and space-time curvature, such as the center of a black hole or the initial state of the universe at the Big Bang. These singularities exist beyond our current understanding of physics and are associated with extreme gravitational forces and the breakdown of conventional physics.
