@@ -7,4 +7,6 @@
 	- But when we repeat 1 percent errors, day after day, by replicating poor decisions, duplicating tiny mistakes, and rationalizing little excuses, our small choices compound into toxic results.
 - Favorite highlights
 - Success is the product of daily habits - not once-in-lifetime transformation.
-- Your outcomes are a lagging measure of your habits. Your net worth is a lagging measure of your financial habits. Your weight is a lagging measure of your eating habits. Your knowledge is a lagging measure of your learning habits. Your cluster is a lagging measure of your cleaning habits. You get what you repeat
+- Your outcomes are a lagging measure of your habits. Your net worth is a lagging measure of your financial habits. Your weight is a lagging measure of your eating habits. Your knowledge is a lagging measure of your learning habits. Your cluster is a lagging measure of your cleaning habits. You get what you repeat.
+- Time magnifies the margin between success and failure. It will multiply whatever you feed it. Good habits make time your ally. Bad habits make time your enemy.
+- If you find
