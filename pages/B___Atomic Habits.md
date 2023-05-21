@@ -11,4 +11,6 @@
 - Time magnifies the margin between success and failure. It will multiply whatever you feed it. Good habits make time your ally. Bad habits make time your enemy.
 - If you find yourself struggling to build a good habit or break a bad one, it is not because you have lost your ability to improve. It is often because you have not yet crossed the Plateau of Latent Potential. Complaining about not achieving success despite working hard is like complaining about an ice cube not melting when you heated it from twenty-five to thirty-one degrees. Your work was not wasted; it is just being stored. All the action happens at thirty-two degrees.
 -
-- Antonio Spurs, one of the most successful teams in NBA history, have a quote from social reformer Jacob Riis hanging in their locker roo
+- Antonio Spurs, one of the most successful teams in NBA history, have a quote from social reformer Jacob Riis hanging in their locker room:
+-
+-
