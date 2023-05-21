@@ -12,8 +12,7 @@
     display: none;
 }
 
-/* This code stub is used to highlight the lines with custom colours by just tagging them with the data-ref. 
-So, now any block tagged with #cr will have a red background, #cy will have a yellow background, etc. */
+/* This code stub is used to highlight the lines with custom colours by just tagging them with the data-ref */
 /*
 Red = Hex code: #FFADAD
 Orange = Hex code: #FFD6A5
