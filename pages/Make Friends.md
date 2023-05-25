@@ -8,5 +8,5 @@ tags:: friends, friendship
 	- So: the most important thing about the most important thing in life is attention, and in schools, in my opinion, we often screw up how we teach it. If you use threats and coercion to force kids to “pay” attention… …you set people up for dysfunctional relationships their whole life! (“PAY ATTENTION TO ME!”)
 - **Good reply game. **You make friends by correctly reading and responding to the implicit proposals in other people’s utterances. [There is an art to replying and commenting](https://twitter.com/visakanv/status/1039420186586038273), and probably like 60-70% of people I’ve seen on the internet fail at it. The important thing is not to speak your mind, but to “support” the OP. You can support them by disagreeing well & you can “mis-support” them by agreeing stupidly.
 - You want to [give people sincere compliments](https://twitter.com/visakanv/status/1107176307496894466). Sincere compliments make people more powerful.
-	- I don’t know if I ever specifically set out to learn this, but Ive gotten pretty good at it over the years: I think giving people specific and sincere compliments is a pretty great skill to develop. It’s a the intersection of making people feel good + developing your taste
-	-
+	- I don’t know if I ever specifically set out to learn this, but Ive gotten pretty good at it over the years: I think giving people specific and sincere compliments is a pretty great skill to develop. It’s a the intersection of making people feel good + developing your taste.
+-
