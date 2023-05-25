@@ -1,0 +1,2 @@
+- *this is shaping up to be the most current, up-to-date document that functions as a starting point for everything I'm into, everything I'm about.*
+-
