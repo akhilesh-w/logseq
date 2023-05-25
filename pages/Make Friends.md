@@ -1,5 +1,7 @@
 tags:: friends, friendship
+author:: Visakan Veerasamy
 
+-
 -
 - If I can only pick one thing from my [memex](https://visakanv.com/memex) to share with the world, I think it might be [“Make friends”.](https://twitter.com/visakanv/status/1105867989738414080) It’s maybe the simplest two word directive that has the most influence on everything else. To make good friends you have to be kind, interesting, sensitive, ethical. If not for the nourishment of friendship I would probably be a selfish asshole. Making friends is the most valuable thing that I know how to do, and I think the most powerful thing I could do to teach other people how to do it. It’s a little odd to me that we live in a time where it’s never been easier to reach out to people, and yet it seems like people are lonelier and more disconnected than ever.
 - **Start with yourself. **The most important person you have to be friends with is yourself. (Much of self-improvement, personal development, introspection, etc can quite simply be reframed as [the art of socialising with yourself](https://twitter.com/visakanv/status/1110805822047571968). Listen to yourself, pay close attention to yourself, don’t interrupt yourself, be kind and supportive to yourself, be constructive in criticism.)
