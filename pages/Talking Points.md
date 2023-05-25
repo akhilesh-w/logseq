@@ -7,4 +7,9 @@
 -
 - ### 1
 - Do it 100 times.
-	-
+	- Write 100 songs, cook 100 omelettes, talk to 100 people. It never seems like a huge deal until you try it yourself. It’s manageable, and yet it stretches you, and you’ll be observably different at the end of it. Effective way to get a foothold on a new thing.
+- A
+- **abundance mindset** is real and it can be very transformative
+	- contrast with scarcity mindset
+-
+-
