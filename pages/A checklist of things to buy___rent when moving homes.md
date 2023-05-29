@@ -1,1 +1,16 @@
-- ### Bedroom
+- ### Bedroom(s)
+	- Bed
+	- Mattress
+	- Side table(s)
+	- Dresser/Wardrobes/Seating tables
+	- Curtains
+	- Bedsheets
+	- Blankets+Duvet comforter and cover
+	- Pillows+pillow covers
+	- Cupboard liners+hangers
+	- Extension board
+	- Lamps/lights/Smart bulbs
+	- Iron/Ironing board
+	- Mirror
+	- Decorative+Miscellaneous items (Plants, Candles, Memorabilia, Speakers, Air Purifier)
+-
