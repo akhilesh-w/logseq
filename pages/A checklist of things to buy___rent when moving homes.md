@@ -1,4 +1,5 @@
--
+tags:: moving, home, shift
+
 - ### Bedroom(s)
 	- Bed
 	- Mattress
