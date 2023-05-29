@@ -43,4 +43,14 @@
 	- Curtains
 	- Decorative items (Seating, Plants, Frames, Whiteboard and markers, bookshelf)
 - ### 🛁 Bathroom(s)
--
+	- Appliances (Geyser, Washing machine, Dryer)
+	- Toiletries and bath accessories
+	- Mirror, Mat, Bucket, Towels, Laundry basket, Shower rod/curtains
+	- Medicines+First Aid
+- ### 🧹 Cleaning Supplies+Tools
+	- Detergents (Handwash, Dish, Laundry, Fabric softener, Stain removers)
+	- Liquid cleaners (All-purpose, Floor, Bathroom, Anti-bacterial, Glass/Windows, Sanitizers)
+	- Room fresheners
+	- Rubber Gloves
+	- Garbage bags, Trash cans
+	-
