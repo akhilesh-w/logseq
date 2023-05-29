@@ -22,4 +22,17 @@
 	- Watering Can
 	- Decorative items (Plants, Candles, Board games, Memorabilia, Speakers)
 - ### 🍽 Kitchen+Dining
-	-
+	- Dining Table+Chairs
+	- Appliances
+		- Stove and Cylinder
+		- Fridge
+		- Microwave/Oven
+		- Water purifier
+		- Kettle
+		- Toaster
+		- Mixer, Blender
+	- Cutlery (Spoons, Forks, Knives, Measuring cups)
+	- Utensils (Plates, Bowls, Mugs, Glasses, Scissors, Spatulas, Lighter, Coasters, Cutting board, Pots, Pans, Serving ware, Water bottles, Ice trays, Bottle Openers, Jars/Containers, Casseroles)
+	- [ ]  Drying basket+Dish cloth
+	- [ ]  Food items (Snacks, Essentials, Beverages)
+	- [ ]  Miscellaneous items (Candles, Matchboxes, Apron, Fridge liners, Beeswax paper/foil, Ziploc and mesh bags)
