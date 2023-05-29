@@ -70,3 +70,4 @@
 - Ensure you have all PAN/identity details of the landlord+ Insurance and billing details
 - Check for your BESCOM ward number (If in Bangalore) and note it down somewhere (Useful when registering for bills, complaints etc)
 - Update new address in all your work or bank documents and online portals
+-
