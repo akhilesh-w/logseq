@@ -13,4 +13,13 @@
 	- Iron/Ironing board
 	- Mirror
 	- Decorative+Miscellaneous items (Plants, Candles, Memorabilia, Speakers, Air Purifier)
--
+- ### Living room + Balcony
+	- Couches/Seatings/Coffee Table
+	- TV+other fittings
+	- Coffee Table
+	- Internet router
+	- Lamps / Lights
+	- Watering Can
+	- Decorative items (Plants, Candles, Board games, Memorabilia, Speakers)
+- ### 🍽 Kitchen+Dining
+	-
