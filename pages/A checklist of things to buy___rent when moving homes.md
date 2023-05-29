@@ -53,4 +53,20 @@
 	- Room fresheners
 	- Rubber Gloves
 	- Garbage bags, Trash cans
-	-
+	- Drying ropes/stand and cloth pins
+	- Broom, Dustpan, Mops or iVac, Vacuum cleaner, Scrubbing brushes or sponges, Squeegees, Microfiber cloths
+	- Flashlights+Batteries
+	- Screwdriver (Phillips/Flat head), Tape (Duct/Electrical), Measuring tape, Pliers, Utility Knife, Nails/Bolts/Screws, Hammer
+- ### 🐶 Pets
+	- Litter box, Litter, Scooper
+	- Food and water bowls
+	- Pet bed+Toys
+	- Food: Wet and Dry+Treats
+	- Wet Wipes, Poop bag, Ticks powder, Medicines
+	- Leash/Collar, Carriers
+-
+- **Notes:**
+- Get the contact details of a Plumber, Electrician, Locksmith, WiFi person and a Gas technician and keep it handy
+- Ensure you have all PAN/identity details of the landlord+ Insurance and billing details
+- Check for your BESCOM ward number (If in Bangalore) and note it down somewhere (Useful when registering for bills, complaints etc)
+- Update new address in all your work or bank documents and online portals
