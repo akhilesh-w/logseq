@@ -8,7 +8,8 @@ Tags:: [[courses]] [[Making money online]] [[Jack Butcher]]
 	- ==**Curiosity drives competence**==
 	- ==**You can only solve the problems you can articulate**==
 		- **mine:** a lot of suffering comes from people not knowing themselves
-			- imo the reason for people's
+			- imo the reason for people's unhappiness, is they don't know themselves
+			- imo once all basic needs are met, the main source of suffering is lack of self awareness.
 	- Do what others don't/won't/can't do.
 	- The process
 		- communicate the problem
