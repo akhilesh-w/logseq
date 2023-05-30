@@ -12,4 +12,6 @@ Tags:: [[courses]] [[Making money online]] [[Jack Butcher]]
 	- The process
 		- communicate the problem
 		- communicate the solution
-		- demonstrate the effective
+		- demonstrate the effectiveness of your solution
+	- Speak in statements. **People will only trust you to the degree you trust yourself**
+-
