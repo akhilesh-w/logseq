@@ -10,6 +10,8 @@ Tags:: [[courses]] [[Making money online]] [[Jack Butcher]]
 		- **mine:** a lot of suffering comes from people not knowing themselves
 			- imo the reason for people's unhappiness, is they don't know themselves
 			- imo once all basic needs are met, the main source of suffering is lack of self awareness.
+			- {{tweet https://twitter.com/neats29/status/1307668579635036160?s=20}}
+			-
 	- Do what others don't/won't/can't do.
 	- The process
 		- communicate the problem
