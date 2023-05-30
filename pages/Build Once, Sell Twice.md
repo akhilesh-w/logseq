@@ -8,6 +8,7 @@ Tags:: [[courses]] [[Making money online]] [[Jack Butcher]]
 	- ==**Curiosity drives competence**==
 	- ==**You can only solve the problems you can articulate**==
 		- **mine:** a lot of suffering comes from people not knowing themselves
+			- imo the reason for people's
 	- Do what others don't/won't/can't do.
 	- The process
 		- communicate the problem
