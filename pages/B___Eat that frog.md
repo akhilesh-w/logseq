@@ -42,4 +42,4 @@
 	- Create a daily list of tasks the day before
 	- check them off to [[MAKE PROGRESS]]
 - ### FLow
-	- Idea, task, project, goal, note -> All kinds of notebooks ->
+	- Idea, task, project, goal, note -> All kinds of notebooks -> MASTER LIST (Notebook) -> [[INBOX]] -> [[This Month's Tasks]] -> [[This Week's Task]]
