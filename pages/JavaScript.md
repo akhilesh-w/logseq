@@ -17,4 +17,9 @@
 	- [[JS Referentials]]
 -
 - ### Data Types
+	- [[JavaScript Arrays]]
+	- [[JavaScript Objects]]
+-
+- ### Statements and declarations
+	- [[JavaScript Loops]]
 	-
