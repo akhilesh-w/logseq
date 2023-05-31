@@ -5,4 +5,5 @@
 - [MusicLM](https://google-research.github.io/seanet/musiclm/examples/)
 - [GPT4All](https://gpt4all.io/index.html)
 - [kafkaai](https://kafkai.com/en/) - Unique and Readable AI Content Generator
+- [HyperWrite](https://www.hyperwriteai.com/) - Your personal AI writing assistant
 -
