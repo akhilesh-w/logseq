@@ -1,0 +1,8 @@
+- [AgentGPT](https://agentgpt.reworkd.ai/)
+- [ChatPDF - Chat with any PDF!](https://www.chatpdf.com/)
+- [The Weeknd AI Voice Generator | Voicify AI Cover Generator](https://www.voicify.ai/theweeknd)
+- [character.ai](https://beta.character.ai/)
+- [MusicLM](https://google-research.github.io/seanet/musiclm/examples/)
+- [GPT4All](https://gpt4all.io/index.html)
+- [AI Canon | Andreessen Horowitz](https://a16z.com/2023/05/25/ai-canon/)
+-
