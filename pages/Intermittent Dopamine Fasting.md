@@ -28,8 +28,16 @@
 - ## How To Use Intermittent Delays
 - I've tried getting rid of anything high-dopamine, low-value 100% of the time but, honestly, that didn't work for me.
 - What's currently working really well for me is a 80/20 rule on delaying mindless, dopamine-hitting activities for the first 80% of the day.
-- Basically, no news-feeds, social media etc. before 6pm. Then, for the remaining 20% of my day (the evening) I can choose to scroll through social media, watch  or anything else.
+- Basically, no news-feeds, social media etc. before 6pm. Then, for the remaining 20% of my day (the evening) I can choose to scroll through social media, watch YouTube or anything else.
 - What I have noticed is that by delaying high-dopamine, low-value activities until the end of the day, they're not as rewarding/thrilling as when I do them in the morning. Which I think is great! I might read the news but I won't be absorbed by them for the rest of the night. It's weird.
 - Also, the longer I delay that dopamine-hit, the more interesting the other high-value activities become by themselves. Which is really, what I'm looking for anyways.
 -
+- ## Tools to Help You
+- Internet blocking like Freedom and BlockSite for Chrome are great tools to help you stay the course. Practically most productivity tools will help you get more important work done.
+- However... **Here's something I wish someone had told me 20 years ago:**
+- *If* you're struggling with keeping your attention focused even with the best of your intentions, make sure you're not really dealing with deeper physical or psychological issues. And if you are, seek treatment sooner rather than later.
+- For example, only when I got diagnosed with ADHD and started to manage my dopamine re-uptake issues, was I able to take control of my daily intake of distractions. No other tool or life-hack could have done that for me.
+- >
+- ADHD is typically characterized as a disorder of inattention and hyperactivity/impulsivity but there is increasing evidence of deficits in motivation.[[1]](https://publish.obsidian.md/#fn-1-67f724e87a94f9f6)
+  So, if you find yourself struggling to focus and you're otherwise a moderately intelligent person and you keep asking yourself "Why is this so hard?" - and guilt-trip yourself because you know what you need to do but you *just cant* - go see a doctor.
 -
