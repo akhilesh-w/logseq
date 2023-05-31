@@ -320,5 +320,5 @@
  :file/name-format :triple-lowbar
  :journal/page-title-format "MMM do, yyyy"
  :graph/settings {:journal? false, :builtin-pages? true, :orphan-pages? true, :excluded-pages? true}
- :ui/show-brackets? true
+ :ui/show-brackets? false
  }
