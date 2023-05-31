@@ -4,4 +4,6 @@
 	- As successful people
 	- Do what successful people already do
 		- Write down your goals
-		- Select, then focus all your attention
+		- Select, then focus all your attention to doing your most important top tasks until it is done well.
+	- Not that you can easily physically, mentally and psychologically model most of what successful people do
+-
