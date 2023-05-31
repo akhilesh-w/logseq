@@ -1,0 +1,5 @@
+-
+- [https://reflect.app](https://reflect.app/)
+- [Capacities](https://app.capacities.io/)
+- [Okular - The Universal Document Viewer](https://okular.kde.org/)
+-
