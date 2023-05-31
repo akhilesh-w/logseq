@@ -11,4 +11,7 @@
 	- Discord: "Chromatic# 2103"
 	- https://publish.obsidian.md/chromatically/publish+homepage
 -
-- [**Tom Critchlow**]()
+	- [Tom Critchlow]({{twitter https://twitter.com/tomcritchlow}})
+	- https://tomcritchlow.com/wiki/
+-
+	-
