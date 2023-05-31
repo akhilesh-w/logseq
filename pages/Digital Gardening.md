@@ -7,7 +7,7 @@
 	- https://publish.obsidian.md/alexisrondeau/Welcome+to+my+digital+garden
 -
 	-
-	- Discord: Chromatic#2103'
+	- Discord: "Chromatic# 2103"
 	- https://publish.obsidian.md/chromatically/publish+homepage
 -
 -
