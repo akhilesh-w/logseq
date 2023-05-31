@@ -7,4 +7,8 @@
 -
 - ## The "Blur"
 - On a clasic slot-machine you have three or more reels that "spin" and blur the icons (cherry, coin, etc.) vertically. The same, albeit with only one reel, happens on a website like Instagram. By scrolling, you create a vertical blur that eventually, hopefully, displays something "good."
+- ![giphy.gif](../assets/giphy_1685531031257_0.gif){:height 358, :width 350}
+- Using the arm on a slot-machine to trigger the "blur"
+-
+- ![scrolling.gif](../assets/scrolling_1685531060047_0.gif)
 -
