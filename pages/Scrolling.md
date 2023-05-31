@@ -11,4 +11,5 @@
 - Using the arm on a slot-machine to trigger the "blur"
 -
 - ![scrolling.gif](../assets/scrolling_1685531060047_0.gif)
+- Using your finger on a scrolling-based site to trigger the blur
 -
