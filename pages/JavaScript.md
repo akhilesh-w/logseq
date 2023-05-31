@@ -10,4 +10,6 @@
 	- [[Angular]]
 	- [[Vue]]
 -
--
+- ### Basics
+	- [[JavaScript Variables]]
+	- [[JavaScript Data Types]]
