@@ -35,9 +35,8 @@
 - ## Tools to Help You
 - Internet blocking like Freedom and BlockSite for Chrome are great tools to help you stay the course. Practically most productivity tools will help you get more important work done.
 - However... **Here's something I wish someone had told me 20 years ago:**
-- *If* you're struggling with keeping your attention focused even with the best of your intentions, make sure you're not really dealing with deeper physical or psychological issues. And if you are, seek treatment sooner rather than later.
-- For example, only when I got diagnosed with ADHD and started to manage my dopamine re-uptake issues, was I able to take control of my daily intake of distractions. No other tool or life-hack could have done that for me.
-- >
-- ADHD is typically characterized as a disorder of inattention and hyperactivity/impulsivity but there is increasing evidence of deficits in motivation.[[1]](https://publish.obsidian.md/#fn-1-67f724e87a94f9f6)
+	- *If* you're struggling with keeping your attention focused even with the best of your intentions, make sure you're not really dealing with deeper physical or psychological issues. And if you are, seek treatment sooner rather than later.
+		- For example, only when I got diagnosed with ADHD and started to manage my dopamine re-uptake issues, was I able to take control of my daily intake of distractions. No other tool or life-hack could have done that for me.
+- > ADHD is typically characterized as a disorder of inattention and hyperactivity/impulsivity but there is increasing evidence of deficits in motivation.
   So, if you find yourself struggling to focus and you're otherwise a moderately intelligent person and you keep asking yourself "Why is this so hard?" - and guilt-trip yourself because you know what you need to do but you *just cant* - go see a doctor.
 -
