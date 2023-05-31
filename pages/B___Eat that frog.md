@@ -9,4 +9,6 @@
 -
 - ### Intro
 	- To set priorities, start and finish (eat) the most important, usually hardest and most complex and "ugliest" task (frog) FIRST.
-	- The uglier
+	- The uglier a task the better
+	- Don't wait, get started right away
+	- Move on only
