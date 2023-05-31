@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Habits.md",
+                "file": "pages/B___Atomic Habits.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Habits.md",
+                "file": "pages/B___Atomic Habits.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Habits.md",
+                "file": "pages/B___Atomic Habits.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Habits.md"
+                "file": "pages/B___Atomic Habits.md"
               }
             }
           }
@@ -156,6 +156,7 @@
   },
   "active": "a7939188b0f694a1",
   "lastOpenFiles": [
+    "James Clear.md",
     "pages/B___Atomic Habits.md",
     "Habits.md",
     "pages/B___Eat that frog.md",
