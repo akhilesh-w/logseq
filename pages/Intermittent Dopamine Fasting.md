@@ -25,4 +25,11 @@
 - However, if you can delay the first intense hit of dopamine for as long as possible, "boring" stuff like reading becomes much more attractive.
 - It's much more likely that you'll do it and enjoy it!
 - ![](file:///C:/Users/akhi2/Dropbox/Photos/New%20PC/Dopamine%20Threshold.png)
+- ## How To Use Intermittent Delays
+- I've tried getting rid of anything high-dopamine, low-value 100% of the time but, honestly, that didn't work for me.
+- What's currently working really well for me is a 80/20 rule on delaying mindless, dopamine-hitting activities for the first 80% of the day.
+- Basically, no news-feeds, social media etc. before 6pm. Then, for the remaining 20% of my day (the evening) I can choose to scroll through social media, watch  or anything else.
+- What I have noticed is that by delaying high-dopamine, low-value activities until the end of the day, they're not as rewarding/thrilling as when I do them in the morning. Which I think is great! I might read the news but I won't be absorbed by them for the rest of the night. It's weird.
+- Also, the longer I delay that dopamine-hit, the more interesting the other high-value activities become by themselves. Which is really, what I'm looking for anyways.
+-
 -
