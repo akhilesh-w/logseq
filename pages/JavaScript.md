@@ -27,4 +27,8 @@
 	- [[JavaScript Functions]]
 -
 - ### Methods
-	-
+	- [[JavaScript String Manipulation]]
+-
+- ### Other
+	- [[JS Proxies]]
+-
