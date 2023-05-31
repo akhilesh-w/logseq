@@ -36,10 +36,10 @@
 - ### Analogue
 	- Capture anything in one of my personal notebooks
 - ### Digital
-	- Capture anything in INBOX
-	- Create a This Month's Tasks list
-	- Create a This Week's Task list
+	- Capture anything in [[INBOX]]
+	- Create a [[This Month's Tasks]] list
+	- Create a [[This Week's Task]] list
 	- Create a daily list of tasks the day before
 	- check them off to MAKE PROGRESS
 - ### FLow
-	- Idea, task, project, goal, note -> All kinds of notebooks -> MASTER LIST (Notebook) -
+	- Idea, task, project, goal, note -> All kinds of notebooks -> MASTER LIST (Notebook) -> INBOX ->
