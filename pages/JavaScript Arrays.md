@@ -1,0 +1,2 @@
+- Technically a type of [[JavaScript Objects]]
+-
