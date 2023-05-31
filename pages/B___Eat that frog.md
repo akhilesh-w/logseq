@@ -14,3 +14,9 @@
 	- Move on only when you're DONE-DONE
 - ### Use your imagination to help you
 	- See myself choosing the most important and ugliest frog FIRST
+	  See myself starting on working on it immediately
+	- See myself finishing it completely
+- ### Chapter 1 - Set the table
+	- Goal setting
+	- Make a decision of what I want in my life
+	- Create clarity
