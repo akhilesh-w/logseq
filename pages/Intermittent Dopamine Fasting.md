@@ -1,3 +1,6 @@
 - *Intermittent dopamine fasting helps you do more "boring but high-value" activities more easily.*
 - To go on an intermittent dopamine fast means to **delay, reduce or outright avoid** **high-dopamine, low-value activities** such as:
+- Scrolling through Instagram
+- Scrolling though Reddit
+- Scrolling Twitter
 -
