@@ -22,4 +22,9 @@
 -
 - ### Statements and declarations
 	- [[JavaScript Loops]]
+	- [[JavaScript Switch]]
+	- [[JavaScript If Statement]]
+	- [[JavaScript Functions]]
+-
+- ### Methods
 	-
