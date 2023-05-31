@@ -17,4 +17,7 @@
 	- [Joschua]({{twitter https://twitter.com/selfire1}})
 	- https://notes.joschua.io/50+Slipbox/Welcome!
 -
+	- [FizziksBoris]({{twitter https://twitter.com/fizziksBoris}})
+	- https://publish.obsidian.md/myquantumwell/
+-
 	-
