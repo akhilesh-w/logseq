@@ -1,2 +1,3 @@
 - ### Courses
+	- freeCodeCamp JavaScript course
 	-
