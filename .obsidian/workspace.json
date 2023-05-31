@@ -11,8 +11,12 @@
             "id": "a7939188b0f694a1",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Habits.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -89,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Habits.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Habits.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Habits.md"
+              }
             }
           }
         ]
@@ -146,11 +154,24 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "784ad6c491f25b85",
+  "active": "a7939188b0f694a1",
   "lastOpenFiles": [
+    "pages/B___Atomic Habits.md",
+    "Habits.md",
+    "pages/B___Eat that frog.md",
+    "pages/A checklist of things to buy___rent when moving homes.md",
+    "pages/🧠 Thought Lab.md",
+    "pages/'logseq-raindrop___Timeful Texts'.md",
+    "pages/'DAO___VitaDAO'.md",
+    "pages/'DAO.md",
+    "pages/'All about Logseq___shortcuts'.md",
+    "pages/'All about Logseq___people'.md",
+    "pages/'All about Logseq.md",
+    "journals/2023_05_21.md",
+    "journals/2023_05_20.md",
+    "journals/2023_05_13.md",
     "2023-05-22.md",
     "pages/Books.md",
-    "journals/2023_05_20.md",
     "journals/2023_05_14.md",
     "journals/2023_05_19.md"
   ]
