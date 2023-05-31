@@ -1,4 +1,4 @@
-- Raindrop
+- [Raindrop](https://raindrop.io/)
 - Pocket
 - Omnivore
 	- Integrates with obsidian & logseq
