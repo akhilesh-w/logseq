@@ -16,7 +16,7 @@
 	- See myself choosing the most important and ugliest frog FIRST
 	  See myself starting on working on it immediately
 	- See myself finishing it completely
-- ### Chapter 1 - Set the table
+- ## Chapter 1 - Set the table
 	- Goal setting
 	- Make a decision of what I want in my life
 	- Create clarity
@@ -28,4 +28,6 @@
 	- Take time every day to continue
 - ### Exercise
 	- Make a list of 10 big life goals that I want to accomplish in the next 12 months
-	- Select the one that, when I've acieved
+	- Select the one that, when I've achieved it, will have the most positive impact on my life
+-
+- ## Chapter 2 - Plan every
