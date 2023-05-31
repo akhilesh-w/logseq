@@ -15,4 +15,6 @@
 	- [[JavaScript Data Types]]
 	- [[JS Primitives]]
 	- [[JS Referentials]]
+-
+- ### Data Types
 	-

@@ -9,6 +9,7 @@
 -
 - var and let
 - Unless you know what you’re doing, keep `var` afar and bet on `let`.
+	-
 	- var: assigns
 	- without var: assigns with global scope
 	- let: want to change
