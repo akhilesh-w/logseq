@@ -20,3 +20,9 @@
 	- Goal setting
 	- Make a decision of what I want in my life
 	- Create clarity
+- ### Process
+	- Write it down
+	- Set a deadline
+	- Make a plan
+	- Start by doing SOMETHING
+	- Take time every day to conti
