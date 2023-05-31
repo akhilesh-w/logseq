@@ -16,4 +16,12 @@
 		- [[React]]
 	- System
 		- [[Python]]
-	-
+	- Data
+		- [[API]]
+		- [[JSON]]
+		- [[YAML]]
+	- Other
+		- [[Git]]
+		- [[nvim]]
+-
+-
