@@ -48,4 +48,9 @@
 	- Organize the steps by **priority** and **sequence** (Goal -> Projects -> Phases -> Tasks)
 	- Make a list where you can see every phase and task
 	- Work on one task only in sequence
--
+- ### Exercise
+	- Make a list of all tasks I have to do in the coming 24 hours. Keep the list updated throughout the day
+	- Make a list of all multi-task projects that are important in my future
+	- Layout each list by PRIORITY and SEQUENCE. Imagine the end and then work backwards in steps
+- ### Links
+	- Amazon:
