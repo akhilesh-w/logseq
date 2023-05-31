@@ -1,0 +1,4 @@
+- ### Methods
+	- delete object.key;
+	- `users.hasOwnProperty(Alan)` is the same as 'Alan' in users
+	-
