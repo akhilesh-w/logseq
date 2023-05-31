@@ -53,4 +53,6 @@
 	- Make a list of all multi-task projects that are important in my future
 	- Layout each list by PRIORITY and SEQUENCE. Imagine the end and then work backwards in steps
 - ### Links
-	- Amazon:
+	- Amazon: https://www.amazon.in/Eat-That-Frog-Great-Procrastinating/dp/152309513X/ref=sr_1_2?keywords=earth+that+frog&sr=8-2
+-
+-
