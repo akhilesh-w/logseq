@@ -25,4 +25,7 @@
 	- Set a deadline
 	- Make a plan
 	- Start by doing SOMETHING
-	- Take time every day to conti
+	- Take time every day to continue
+- ### Exercise
+	- Make a list of 10 big life goals that I want to accomplish in the next 12 months
+	-
