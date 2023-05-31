@@ -2,4 +2,9 @@
 -
 - ## The "Arm"
 - On a slot-machine, you have the "arm" to the side that you need to pull down vertically. On a website you have either the scrollbar which you must pull or use a finger in a similar vertical swiping.
+- ![arm.gif](../assets/arm_1685530953879_0.gif)
+- ![thumb.gif](../assets/thumb_1685530962483_0.gif)
+-
+- ## The "Blur"
+- On a clasic slot-machine you have three or more reels that "spin" and blur the icons (cherry, coin, etc.) vertically. The same, albeit with only one reel, happens on a website like Instagram. By scrolling, you create a vertical blur that eventually, hopefully, displays something "good."
 -
