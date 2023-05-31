@@ -7,4 +7,14 @@
 	- Drinking Coffee
 -
 - That's because **"boring but high-value" low-dopamine activities** such as...
+	- Meditating
+	- Reading
+	- Writing
+	- Working
+	- Focusing
+	- Facing fears
+	- Connecting with people
+	- Solving hard problems
+- become **that much harder after you're already dopamine-triggered** early on in your day.
+- Think about it: Once you've had that dopamine hit early on from the news or Instagram, that tediuous (but important) report you wanted to write is now utterly and mindnumbingly *boring.*
 -
