@@ -1,12 +1,12 @@
 - [Raindrop](https://app.raindrop.io/my/0)
 - [Pocket](https://getpocket.com/home)
-- Omnivore
+- [Omnivore](https://omnivore.app/home)
 	- Integrates with obsidian & logseq
 	- free and opensource
 	- highlight has only yellow colour
 	- Has PDF reader
 - Readwise Reader
-	- Gonna be paid soon
+	- subscription based
 - Matter
 	- only for iphone
 -
