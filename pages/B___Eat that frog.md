@@ -1,1 +1,7 @@
-- "Eat That Frog!": 21 Great ways to stop procrastinating and get more done in lea
+- "Eat That Frog!": 21 Great ways to stop procrastinating and get more done in less time" by Brian Tracy
+-
+- ### Preface
+	- As successful people
+	- Do what successful people already do
+		- Write down your goals
+		- Select, then focus all your attention
