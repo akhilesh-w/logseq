@@ -8,4 +8,5 @@
 	- Not that you can easily physically, mentally and psychologically model most of what successful people do
 -
 - ### Intro
-	- To set priorities, start and finish (eat) the most important, usually hardest and most complex and "ugliest" task (frog )
+	- To set priorities, start and finish (eat) the most important, usually hardest and most complex and "ugliest" task (frog) FIRST.
+	- The uglier
