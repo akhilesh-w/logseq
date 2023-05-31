@@ -1,4 +1,15 @@
-- Technically a type of [object]([[JavaScript Objects]])****
+- Technically a type of [object]([[JavaScript Objects]])
   id:: 64777862-c7c8-47db-b7b6-6222360d6836
 -
+- ### Arrays
+	- Bracket notation: `[0]`
+	- *Zero based indexing*: The first character is `0`, not `1`
+	- You can get arrays within arrays like so: `myArray = [[1,2,3],["A", "B", "C"][4,5,6]]`
+	- And access `5` like so: `myArray[2,1]`
+	- `.push` appends to array
+	- `.pop` removes and returns the last element
+	- `.shift` removes and retuns the first element
+	- `.unshift` adds elements to the beginning
 -
+- ### Methods
+	-
