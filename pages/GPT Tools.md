@@ -4,6 +4,5 @@
 - [character.ai](https://beta.character.ai/)
 - [MusicLM](https://google-research.github.io/seanet/musiclm/examples/)
 - [GPT4All](https://gpt4all.io/index.html)
-- [AI Canon | Andreessen Horowitz](https://a16z.com/2023/05/25/ai-canon/)
 - [kafkaai](https://kafkai.com/en/) - Unique and Readable AI Content Generator
 -
