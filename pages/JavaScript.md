@@ -1,4 +1,5 @@
 - ### Courses
 	- freeCodeCamp JavaScript course
 	- ![JavaScript- The Good Parts.pdf](../assets/JavaScript-_The_Good_Parts_1685550343680_0.pdf)
+	- https://eloquentjavascript.net/
 	-
