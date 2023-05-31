@@ -1,2 +1,5 @@
 - I believe it's **no co-incidence** how similar slot-machines and "scrolling-based" websites like Twitter, Reddit, Instagram, and Facebook work. I believe that at the core, they're almost the same and are designed to trigger dopamine hikes and thus become irresistible.
 -
+- ## The "Arm"
+- On a slot-machine, you have the "arm" to the side that you need to pull down vertically. On a website you have either the scrollbar which you must pull or use a finger in a similar vertical swiping.
+-
