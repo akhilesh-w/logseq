@@ -30,4 +30,10 @@
 	- Make a list of 10 big life goals that I want to accomplish in the next 12 months
 	- Select the one that, when I've achieved it, will have the most positive impact on my life
 -
-- ## Chapter 2 - Plan every
+- ## Chapter 2 - Plan every day in advance
+- Why plan ahead? -> Spending 10% of your time planning can eliminate up to 90% of wasted time once you get started
+- ### Process
+- ### Analogue
+	- Capture anything in one of my personal notebooks
+- ### Digital
+	-
