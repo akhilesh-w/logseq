@@ -22,4 +22,5 @@
   myObj.hasOwnProperty(SpaceName);
   ```
 -
-- ### Constructors and
+- ### Constructors and Prototypes
+	-
