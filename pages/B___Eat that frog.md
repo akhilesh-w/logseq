@@ -42,4 +42,10 @@
 	- Create a daily list of tasks the day before
 	- check them off to [[MAKE PROGRESS]]
 - ### FLow
-	- Idea, task, project, goal, note -> All kinds of notebooks -> MASTER LIST (Notebook) -> [[INBOX]] -> [[This Month's Tasks]] -> [[This Week's Task]]
+	- Idea, task, project, goal, note -> All kinds of notebooks -> MASTER LIST (Notebook) -> [[INBOX]] -> [[This Month's Tasks]] -> [[This Week's Task]] -> Daily Tasks
+- ### How to plan a project
+	- List every step you can think of that's needed from START to FINISH
+	- Organize the steps by **priority** and **sequence** (Goal -> Projects -> Phases -> Tasks)
+	- Make a list where you can see every phase and task
+	- Work on one task only in sequence
+-
