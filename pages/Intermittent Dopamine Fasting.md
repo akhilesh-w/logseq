@@ -24,3 +24,5 @@
 - Because once you had that hit, **you've created the minimum dopamine threshold** for that day. Anything below that threshold will not happen.
 - However, if you can delay the first intense hit of dopamine for as long as possible, "boring" stuff like reading becomes much more attractive.
 - It's much more likely that you'll do it and enjoy it!
+- ![](file:///C:/Users/akhi2/Dropbox/Photos/New%20PC/Dopamine%20Threshold.png)
+-
