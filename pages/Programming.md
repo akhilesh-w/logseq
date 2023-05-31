@@ -8,4 +8,12 @@
 -
 - ### Languages
 	- Web
-		-
+		- [[JavaScript]]
+	- Client
+		- [[HTML]]
+		- [[CSS]]
+	- Frameworks
+		- [[React]]
+	- System
+		- [[Python]]
+	-
