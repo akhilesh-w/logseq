@@ -18,4 +18,14 @@
 		- the third parameter of splice adds elements
 	- slice(1,3) only copies over without deleting - from index 1 to index 3
 -
-- ###
+- ### Filter
+	- ```JavaScript
+	  const words = ['spray', 'limit', 'elite', 'exuberant', 'destruction', 'present'];
+	  
+	  const result = words.filter(word => word.length > 6);
+	  
+	  console.log(result);
+	  // expected output: Array ["exuberant", "destruction", "present"
+	  ```
+-
+-
