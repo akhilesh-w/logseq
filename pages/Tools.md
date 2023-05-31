@@ -1,5 +1,8 @@
-- [[GPT Tools]]
--
 -
 - [HyperWrite](https://www.hyperwriteai.com/) - Your personal AI writing assistant
+-
+-
+- [[GPT Tools]]
+- [[Great Websites]]
+- [[Note Taking Apps]]
 -
