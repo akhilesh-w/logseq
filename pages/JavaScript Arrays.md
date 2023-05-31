@@ -12,4 +12,10 @@
 	- `.unshift` adds elements to the beginning
 -
 - ### Methods
-	-
+	- push adds to end, pop removes at end
+	- unshift adds to end, shift removes at end
+	- splice(2,2) removes at index two a number of two elements
+		- the third parameter of splice adds elements
+	- slice(1,3) only copies over without deleting - from index 1 to index 3
+-
+- ###
