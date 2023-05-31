@@ -7,3 +7,5 @@
 		- Select, then focus all your attention to doing your most important top tasks until it is done well.
 	- Not that you can easily physically, mentally and psychologically model most of what successful people do
 -
+- ### Intro
+	- To set priorities, start and finish (eat) the most important, usually hardest and most complex and "ugliest" task (frog )
