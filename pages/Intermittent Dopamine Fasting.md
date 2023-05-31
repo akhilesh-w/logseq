@@ -18,3 +18,9 @@
 - become **that much harder after you're already dopamine-triggered** early on in your day.
 - Think about it: Once you've had that dopamine hit early on from the news or Instagram, that tediuous (but important) report you wanted to write is now utterly and mindnumbingly *boring.*
 -
+- ## Your Daily Dopamine Threshold
+- For example, if you check Instagram early in the morning, thus getting your first hit of dopamine, any tedious but important work like reading will just not be attractive anymore.
+- You just won't do it.
+- Because once you had that hit, **you've created the minimum dopamine threshold** for that day. Anything below that threshold will not happen.
+- However, if you can delay the first intense hit of dopamine for as long as possible, "boring" stuff like reading becomes much more attractive.
+- It's much more likely that you'll do it and enjoy it!
