@@ -4,9 +4,10 @@
 -
 - {{tweet {{twitter https://twitter.com/Mappletons/status/1250532315459194880}}
 - Well maintained digital gardens:
+	-
+	- Alexis Rondeau:
 	- https://publish.obsidian.md/alexisrondeau/Welcome+to+my+digital+garden
 -
-	-
 	- Discord: "Chromatic# 2103"
 	- https://publish.obsidian.md/chromatically/publish+homepage
 -
