@@ -14,4 +14,7 @@
 	- [Tom Critchlow]({{twitter https://twitter.com/tomcritchlow}})
 	- https://tomcritchlow.com/wiki/
 -
+	- [Joschua]({{twitter https://twitter.com/selfire1}})
+	- https://notes.joschua.io/50+Slipbox/Welcome!
+-
 	-
