@@ -36,4 +36,8 @@
 - ### Analogue
 	- Capture anything in one of my personal notebooks
 - ### Digital
+	- Capture anything in INBOX
+	- Create a This Month's Tasks list
+	- Create a This Week's Task list
+	- Create a daily list of tasks the day before
 	-
