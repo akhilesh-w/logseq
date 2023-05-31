@@ -1,5 +1,5 @@
 - [Raindrop](https://app.raindrop.io/my/0)
-- Pocket
+- [Pocket](https://getpocket.com/home)
 - Omnivore
 	- Integrates with obsidian & logseq
 	- free and opensource
