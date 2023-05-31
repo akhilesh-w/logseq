@@ -1,5 +1,8 @@
+- A digital garden is an online space at the intersection of a notebook and a blog, where digital gardeners share seeds of thoughts to be cultivated in public. Contrary to a blog, where articles and essays have a publication date and start decaying as soon as they are published, a digital garden is evergreen: digital gardeners keep on editing and refining their notes.
+-
+- Another characteristic is the navigation: while a blog may usually be explored in chronological order, a digital garden uses bi-directional linking—or at least lots of internal links—to connect notes together. Such interconnection creates a trail of ideas that readers can follow.
 -
 - {{tweet {{twitter https://twitter.com/Mappletons/status/1250532315459194880}}
 -
 -
-- Another characteristic is the navigation: while a blog may usually be explored in chronological order, a digital garden uses bi-directional linking—or at least lots of internal links—to connect notes together. Such interconnection creates a trail of ideas that readers can follow.
+-
