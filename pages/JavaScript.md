@@ -13,3 +13,6 @@
 - ### Basics
 	- [[JavaScript Variables]]
 	- [[JavaScript Data Types]]
+	- [[JS Primitives]]
+	- [[JS Referentials]]
+	-
