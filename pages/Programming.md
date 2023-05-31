@@ -2,4 +2,10 @@
 -
 - ### Knowledge Flow
 -
-- ### Princ
+- ### Principles
+	- [[Object Oriented Programming]]
+	- [[Don't repeat yourself]]
+-
+- ### Languages
+	- Web
+		-
