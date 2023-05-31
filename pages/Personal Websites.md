@@ -1,3 +1,11 @@
 - [Atharva Kharbade](https://athrvakhrbde.com/)
 - [Mayur Bhoi](https://www.mayur.wtf/)
+- [garden — sindhu.live](https://sindhu.live/garden)
+- [Lee Robinson](https://leerob.io/)
+- [Melanie Richards](https://melanie-richards.com/)
+- [Projects | Bhagya Mudgal](https://www.bhagyamudgal.com/projects)
+- [Riten’s mind](https://greatminds.super.site/ritens-mind)
+- [Great minds](https://greatminds.super.site/)
+- [👋🏾 Welcome!](https://roamresearch.com/#/app/visakanv-public/page/45EU_k-rI)
+- [My Knowledge Wiki 🌿 | Everything I Know](https://wiki.nikiv.dev/)
 -
