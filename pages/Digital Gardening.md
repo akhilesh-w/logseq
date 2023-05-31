@@ -1,3 +1,5 @@
+-
 - {{tweet {{twitter https://twitter.com/Mappletons/status/1250532315459194880}}
 -
 -
+- Another characteristic is the navigation: while a blog may usually be explored in chronological order, a digital garden uses bi-directional linking—or at least lots of internal links—to connect notes together. Such interconnection creates a trail of ideas that readers can follow.
