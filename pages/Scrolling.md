@@ -1,0 +1,1 @@
+- I believe it's **no co-incidence** how similar slot-machines and "scrolling-based" websites like I, Reddit, Instagram, and Facebook work. I believe that at the core, they're almost the same and are designed to trigger dopamine hites and thus become irresistible.
