@@ -1,3 +1,3 @@
 - ### Courses
 	- freeCodeCamp JavaScript course
-	- /pdf
+	-
