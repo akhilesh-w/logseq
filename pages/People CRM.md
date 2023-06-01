@@ -3,3 +3,8 @@
 	- Company:
 	- Role:
 	- Location:
+	- How we met:
+	- Birthday:
+	- Interests:
+	- Tags:
+-
