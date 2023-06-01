@@ -1,2 +1,3 @@
-- [Vitalik's Blog](https://vitalik.ca/)
--
+- Crypto:
+	- [Vitalik's Blog](https://vitalik.ca/)
+	-
