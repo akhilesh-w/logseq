@@ -1,3 +1,4 @@
 - Crypto:
 	- [Vitalik's Blog](https://vitalik.ca/)
+	- https://ethereum-magicians.org/
 	-
