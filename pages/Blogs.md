@@ -1,1 +1,2 @@
-- [Vitalik's Blo]()
+- [Vitalik's Blog](https://vitalik.ca/)
+-
