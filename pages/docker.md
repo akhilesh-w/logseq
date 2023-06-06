@@ -2,6 +2,6 @@
 - docker commands
 	- docker ps -> lists all the docker images
 	- docker run image-name -> run the image
-	- stop the container -> docker stop <id of the container>
+		- stop the container -> docker stop <id of the container>
+		- if you want to start it again -> docker start <id of the container>
 	- start the container and get the id -> docker run -d image-name
-	-
