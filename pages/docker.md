@@ -8,4 +8,5 @@
 	- start the container and get the id -> docker run -d image-name
 	- docker ps -a -> lists all the running and stopped containers (This helps when you restart the laptop next day and want to start the same container, we can get the container id from the list and start the same container again)
 	- port binding -> docker run -p6000:6379 image-name (so here, the 6000 port of laptop is bind with the 6379 port of the container)
+	- docker logs <container id/ container name>
 	-
