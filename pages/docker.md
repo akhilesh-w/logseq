@@ -1,3 +1,5 @@
 -
 - docker commands
+	- docker ps -> lists all the docker images
+	- docker run image-name -> run the image
 	-
