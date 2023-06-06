@@ -12,4 +12,5 @@
 	- docker run -d -> -d to run it in detach mode
 	- docker run -d -p6001:6379 --name redis-older redis:4.0 (The --name flag is used to name the container, here we named it redis older cause it uses redis 4.0)
 	- docker exec -it container-id  /bin/bash -> (-it stands for interactive terminal)
-	-
+	- docker network ls -> lists all docker networks
+	- docker network create network-name
