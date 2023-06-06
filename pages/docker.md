@@ -10,4 +10,5 @@
 	- port binding -> docker run -p6000:6379 image-name (so here, the 6000 port of laptop is bind with the 6379 port of the container)
 	- docker logs <container id/ container name>
 	- docker run -d -> -d to run it in detach mode
-	- docker run -d -p6001:6379 --name redis-older redis:4.0 (The --name flag is used to name the container )
+	- docker run -d -p6001:6379 --name redis-older redis:4.0 (The --name flag is used to name the container, here we named it redis older cause it uses redis 4.0)
+	-
