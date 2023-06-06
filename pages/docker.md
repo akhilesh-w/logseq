@@ -2,4 +2,5 @@
 - docker commands
 	- docker ps -> lists all the docker images
 	- docker run image-name -> run the image
+	- stop the container -> docker stop <id of the container>
 	-
