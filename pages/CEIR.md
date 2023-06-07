@@ -1,1 +1,3 @@
 - CEIR - Central Equipment Identity Register
+- Link - https://www.ceir.gov.in/Home/index.jsp
+-
