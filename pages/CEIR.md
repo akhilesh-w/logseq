@@ -1,4 +1,5 @@
 - CEIR - Central Equipment Identity Register
 - Link - https://www.ceir.gov.in/Home/index.jsp
 -
-	- CEIR is helpful when the phone is lost and
+	- If your phone is lost or stolen, with CEIR we can block the phone and unblock it when you find it
+	- Can know if the phone is genuine
