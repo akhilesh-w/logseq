@@ -13,4 +13,5 @@
 	  logseq.order-list-type:: number
 	- OBS
 	  logseq.order-list-type:: number
-	- logseq.order-list-type:: number
+-
+-
