@@ -1,3 +1,4 @@
+- Extensions
 - Browser
   logseq.order-list-type:: number
 - VS Code
