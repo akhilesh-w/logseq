@@ -1,2 +1,4 @@
 - Show your work as you go along because we are all [[amateurs]] just trying to figure things out. This means that you are open and public about what you are working on and what you are figuring out. Find a public platform to show off works in progress even if they are rough and incomplete. I’ve always found that rough sketches and unrefined visual work has a raw energy and honesty that is often missing in completed and packaged work.
--
+	- Keep a blog.
+	- Post on social media.
+	-
