@@ -1,2 +1,3 @@
 - LinkedIn: https://www.linkedin.com/in/chadbennett1/
+- GitHub: https://github.com/chad-bennett?tab=repositories
 -
