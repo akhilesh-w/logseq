@@ -1,4 +1,8 @@
+tags:: #process
+
+-
 - Take notes, scribble ideas, [[Get it on the page]] so you have a tangible record of the work. These artifacts are a map that tracks your progress and shows how you have gotten to where you are. If you run into a dead-end down one trail, you can go back and find a new path to explore. If you need to explain your ideas to someone, you have visual aids to support your thoughts and ideas.
 -
 - Do not go where the path may lead, go instead where there is no path and leave a trail. - [[Ralph Waldo Emerson]]
+-
 -
