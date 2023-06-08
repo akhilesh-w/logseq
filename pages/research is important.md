@@ -1,0 +1,1 @@
+- > Research widely, select carefully. Broad funnel, tight filter. - [[James Clear]]
