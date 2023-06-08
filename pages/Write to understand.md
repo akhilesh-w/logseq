@@ -1,4 +1,5 @@
-- This means that you should [[get to work]] cause it is the process of doing the work that actually helps you to figure out the solutions. If you can [[Get it on the page]] then you can see the structure and work from there. It also
+- This means that you should [[get to work]] cause it is the process of doing the work that actually helps you to figure out the solutions. If you can [[Get it on the page]] then you can see the structure and work from there. It also helps to [[Leave a record]] of the ideas so you aren't trying to keep everything in your head at once. An important time to [[take time to reflect]].
+-
 -
 - #### Dig Deeper
 	- [writing to find out what you don’t want to know from austin kleon](https://austinkleon.com/2019/08/02/writing-to-find-out-what-you-dont-want-to-know/)
