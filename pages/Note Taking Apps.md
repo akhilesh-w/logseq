@@ -1,7 +1,11 @@
 - [Notion](https://www.notion.so/) - one of the best note taking apps, can do amazing things
+	- pros:
+		- easy to use
+		- o
 	- cons:
 		- slow
-		-
+		- doesn't work offline
+		- notes are locked in proprietary format
 - [Evernote](https://evernote.com/) -
 -
 - [Capacities](https://app.capacities.io/)
