@@ -12,3 +12,7 @@
 -
 - The article [16 life-learnings from 16 years of the the Marginalian](https://www.themarginalian.org/2022/10/23/16-learnings/) is filled with Maria Popova’s wisdom learned through the experience of putting her work out on the internet for over a decade and a half. In the introduction, she says [”the seven friends somehow became several million readers without much effort on my behalf beyond the daily habit of showing up for the blank page”](https://www.themarginalian.org/2022/10/23/16-learnings/#:~:text=the%20seven%20friends%20somehow%20became%20several%20million%20readers%20without%20much%20effort%20on%20my%20behalf%20beyond%20the%20daily%20habit%20of%20showing%20up%20for%20the%20blank%20page.). I love the idea of just doing your thing and putting it out there to be discovered. Eventually, hopefully, your work is found and appreciated. It may lead to income and gigs and awards but you don’t do the work with those expectations. You do the work because you are trying to understand something that fascinates and compels you.
 -
+- ### unsorted thoughts
+	- living life as a creative person instead of being a person that makes creative things. mindset of documenting your life. everyone is creative and are always making creative things. needs to be more than unenlightened navel-gazing though.
+	- accountability. you may be more motivated if you are showing your work on a regular and ongoing basis. intrinsic vs. extrinsic motivation. plus it keeps you honest.
+	-
