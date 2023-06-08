@@ -1,1 +1,3 @@
-- Website:
+- Website: https://www.nitinpai.in/
+- Twitter: https://twitter.com/acorn
+- Digital Garden
