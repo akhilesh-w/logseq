@@ -1,0 +1,3 @@
+- Take the time to explore, to try things out, to experiment, to play.
+-
+- I want to dig much deeper into the importance of **Play** in the creative process.
