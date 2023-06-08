@@ -12,7 +12,6 @@
 - [Logseq](https://logseq.com/) -
 - [Evernote](https://evernote.com/) - Never used it that much but it's one of the popular choices of its time
 -
--
 - [Capacities](https://app.capacities.io/)
 - [https://reflect.app](https://reflect.app/)
 - [Okular - The Universal Document Viewer](https://okular.kde.org/) - to read PDF documents, comics and EPub books
