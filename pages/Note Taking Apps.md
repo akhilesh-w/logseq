@@ -7,7 +7,9 @@
 		- slow
 		- doesn't work offline
 		- notes are locked in proprietary format
-- [Evernote](https://evernote.com/) -
+-
+- [Evernote](https://evernote.com/) - Never used it that much but it's one of the popular choices of its time
+-
 -
 - [Capacities](https://app.capacities.io/)
 - [https://reflect.app](https://reflect.app/)
