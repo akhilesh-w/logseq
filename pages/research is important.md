@@ -1,1 +1,2 @@
-- > Research widely, select carefully. Broad funnel, tight filter. - [[James Clear]]
+- > Research widely, select carefully. Broad funnel, tight filter. - [[James Clear]] #quote
+- stuff about research and [[inspiration]]
