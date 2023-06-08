@@ -12,8 +12,14 @@
 	- pros:
 		- markdown
 		- works offline
+		- syncs with phone
 		-
 - [Logseq](https://logseq.com/) -
+	- pros:
+		- open-source
+		- markdown
+		- works offline
+		- has lot of plugins
 - [Evernote](https://evernote.com/) - Never used it that much but it's one of the popular choices of its time
 -
 - [Capacities](https://app.capacities.io/)
