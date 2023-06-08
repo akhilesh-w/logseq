@@ -7,4 +7,5 @@
 	- Leave a record.
 	- Get it on the page.
 	- Write to understand.
-- This goes by many names and phrases. [[Austin Kleon]] wrote an entire book called “Show Your Work!”. [[Andy Matuschak]] says to [“work with the garage door up”](https://notes.andymatuschak.org/z21cgR9K3UcQ5a7yPsj2RUim3oM2TzdBByZu) based on story by Robin Sloan about a woodworking shop that always had the door open so people could see what was going on inside. Anne-Laure Le Cunff says [“work in public”](https://nesslabs.com/work-in-public). I also like the phrase “thinking out loud” too.
+- This goes by many names and phrases. [[Austin Kleon]] wrote an entire book called “Show Your Work!”. [[Andy Matuschak]] says to [“work with the garage door up”](https://notes.andymatuschak.org/z21cgR9K3UcQ5a7yPsj2RUim3oM2TzdBByZu) based on story by Robin Sloan about a woodworking shop that always had the door open so people could see what was going on inside. [[Anne-Laure Le Cunff]] says [“work in public”](https://nesslabs.com/work-in-public). I also like the phrase “thinking out loud” too.
+-
