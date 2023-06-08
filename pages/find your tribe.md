@@ -2,3 +2,6 @@
 -
 - I've been seeing the word "[Scenius](https://medium.com/salvo-faraday/what-is-the-scenius-15409eb6ac72)" a lot lately. It is a term coined by Brian Eno and highlighted in Austin Kleon's book "Show Your Work". The idea breaks down the myth of a lone genius and replaces it with the collective intelligence of a group: ie. **Genius is one and Scenius is many**. It is about how ideas are shared and evolve in a collaborative way. This [medium article by Alex Gentry](https://medium.com/salvo-faraday/what-is-the-scenius-15409eb6ac72) is a much deeper dive into the concept of a Scenius.
 -
+- I love the idea and completely agree with the concept, but it feels like a total hipster term to me. I like the simpler, but longer **"Find Your Tribe"** because that connotes a sense of family, of community, of shared togetherness that can't be captured by a jargon-word like Scenius.
+-
+-
