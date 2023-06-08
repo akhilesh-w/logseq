@@ -1,2 +1,2 @@
 - ### Definition
-	-
+	- [Merriam-Webster]()
