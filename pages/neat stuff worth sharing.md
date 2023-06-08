@@ -1,3 +1,4 @@
 - this a page for keeping just a bunch of random sites I find cool
 -
+- [matrix raining text effect](https://github.com/Rezmason/matrix) is a github project with different implementations of the effect that you can use for yourself
 -
