@@ -1,0 +1,4 @@
+- Show your  [[learning in public]]  in whatever form works for you leads to a connection with other like-minded souls. Put your work out there and see who you resonate with. This can lead to collaborations and commissions and community which can lead to shared knowledge and ideas.
+-
+- I've been seeing the word "[Scenius](https://medium.com/salvo-faraday/what-is-the-scenius-15409eb6ac72)" a lot lately. It is a term coined by Brian Eno and highlighted in Austin Kleon's book "Show Your Work". The idea breaks down the myth of a lone genius and replaces it with the collective intelligence of a group: ie. **Genius is one and Scenius is many**. It is about how ideas are shared and evolve in a collaborative way. This [medium article by Alex Gentry](https://medium.com/salvo-faraday/what-is-the-scenius-15409eb6ac72) is a much deeper dive into the concept of a Scenius.
+-
