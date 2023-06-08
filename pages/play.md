@@ -1,0 +1,3 @@
+- Super important concept to explore in a much deeper way. Considerations for both [[learning]] and [[creativity]]
+-
+- [[play with ideas]]
