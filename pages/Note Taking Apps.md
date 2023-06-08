@@ -9,6 +9,10 @@
 		- notes are locked in proprietary format
 -
 - [Obsidian](https://obsidian.md/) -
+	- pros:
+		- markdown
+		- works offline
+		-
 - [Logseq](https://logseq.com/) -
 - [Evernote](https://evernote.com/) - Never used it that much but it's one of the popular choices of its time
 -
