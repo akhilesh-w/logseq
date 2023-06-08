@@ -1,4 +1,5 @@
-- [Notion](https://www.notion.so/)
+- [Notion](https://www.notion.so/) -
+- [Evernote](https://evernote.com/) -
 -
 - [https://reflect.app](https://reflect.app/)
 - [Capacities](https://app.capacities.io/)
