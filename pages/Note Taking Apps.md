@@ -1,7 +1,10 @@
-- [Notion](https://www.notion.so/) -
+- [Notion](https://www.notion.so/) - one of the best note taking apps, can do amazing things
+	- cons:
+		- slow
+		-
 - [Evernote](https://evernote.com/) -
 -
-- [https://reflect.app](https://reflect.app/)
 - [Capacities](https://app.capacities.io/)
+- [https://reflect.app](https://reflect.app/)
 - [Okular - The Universal Document Viewer](https://okular.kde.org/) - to read PDF documents, comics and EPub books
 -
