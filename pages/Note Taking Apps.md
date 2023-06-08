@@ -8,6 +8,8 @@
 		- doesn't work offline
 		- notes are locked in proprietary format
 -
+- [Obsidian](https://obsidian.md/) -
+- [Logseq](https://logseq.com/) -
 - [Evernote](https://evernote.com/) - Never used it that much but it's one of the popular choices of its time
 -
 -
