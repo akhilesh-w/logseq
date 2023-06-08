@@ -1,3 +1,4 @@
+- [Notion](https://www.notion.so/)
 -
 - [https://reflect.app](https://reflect.app/)
 - [Capacities](https://app.capacities.io/)
