@@ -1,4 +1,4 @@
--
+- This means that you should [[get to work]] cause it is the process of doing the work
 -
 - #### Dig Deeper
 	- [writing to find out what you don’t want to know from austin kleon](https://austinkleon.com/2019/08/02/writing-to-find-out-what-you-dont-want-to-know/)
