@@ -1,0 +1,1 @@
+- Ask anyone doing truly creative work, and they’ll tell you the truth: They don’t know where the good stuff comes from. They just show up and do their thing. Every day.
