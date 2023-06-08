@@ -13,16 +13,20 @@
 		- markdown
 		- works offline
 		- syncs with phone
-		-
+		- has lots of plugins
+-
 - [Logseq](https://logseq.com/) -
 	- pros:
 		- open-source
 		- markdown
 		- works offline
 		- has lot of plugins
+-
 - [Evernote](https://evernote.com/) - Never used it that much but it's one of the popular choices of its time
 -
-- [Capacities](https://app.capacities.io/)
-- [https://reflect.app](https://reflect.app/)
+- [Capacities](https://app.capacities.io/) -
+-
+- [https://reflect.app](https://reflect.app/) -
+-
 - [Okular - The Universal Document Viewer](https://okular.kde.org/) - to read PDF documents, comics and EPub books
 -
