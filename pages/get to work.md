@@ -1,3 +1,5 @@
 - > Ask anyone doing truly creative work, and they’ll tell you the truth: They don’t know where the good stuff comes from. They just show up and do their thing. Every day. [[Austin Kleon]]
 -
-- > I think inspiration is overrated. I think work is what is important. You can only make music if you make music. You can only paint if you paint. You can only write if you write. In general, you won’t get better at it, or at anything else, unless you do it. And so you do it. I think being inspired really happens in the midst of work, not before the work. -
+- > I think inspiration is overrated. I think work is what is important. You can only make music if you make music. You can only paint if you paint. You can only write if you write. In general, you won’t get better at it, or at anything else, unless you do it. And so you do it. I think being inspired really happens in the midst of work, not before the work. - [[Marc Weidenbaum]]
+-
+-
