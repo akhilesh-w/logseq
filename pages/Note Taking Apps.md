@@ -33,4 +33,5 @@
 -
 - #### webclip/read/bookmark services
 	- Tools to collect and curate online content.
+	- well-known options include [Readwise](https://readwise.io/), [Pocket](https://getpocket.com/en/), [Instapaper](https://www.instapaper.com/), [Raindrop](https://raindrop.io/)
 	-
