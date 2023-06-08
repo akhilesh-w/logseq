@@ -2,4 +2,5 @@
 -
 - #### Dig Deeper
 	- [writing to find out what you don’t want to know from austin kleon](https://austinkleon.com/2019/08/02/writing-to-find-out-what-you-dont-want-to-know/)
+	- [writing as a thinking tool from ness labs](https://nesslabs.com/writing-thinking-tool)
 	-
