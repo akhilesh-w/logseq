@@ -21,4 +21,6 @@
 	- https://publish.obsidian.md/myquantumwell/
 -
 	- [[Mister Chad]]
-	-
+	- https://mister-chad.com/welcome
+-
+-
