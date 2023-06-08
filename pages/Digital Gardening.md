@@ -20,4 +20,5 @@
 	- [FizziksBoris]({{twitter https://twitter.com/fizziksBoris}})
 	- https://publish.obsidian.md/myquantumwell/
 -
+	- [[Mister Chad]]
 	-
