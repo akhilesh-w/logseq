@@ -1,7 +1,8 @@
 - [Notion](https://www.notion.so/) - one of the best note taking apps, can do amazing things
 	- pros:
 		- easy to use
-		- o
+		- good for project management
+		- multiple people can easily use it
 	- cons:
 		- slow
 		- doesn't work offline
