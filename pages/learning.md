@@ -1,0 +1,1 @@
+- the process of acquiring information. how else to describe it?
