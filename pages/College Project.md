@@ -14,4 +14,5 @@
 - libraries
 	- opencv
 	- dlib
+	- pyautogui
 	-
