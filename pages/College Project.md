@@ -11,3 +11,7 @@
 - ![0_SgfJ7xl7QKZm037P.webp](../assets/0_SgfJ7xl7QKZm037P_1686975910311_0.webp)
 -
 -
+- libraries
+	- opencv
+	- dlib
+	-
