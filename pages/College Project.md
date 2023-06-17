@@ -16,3 +16,27 @@
 	- dlib
 	- pyautogui
 	-
+-
+-
+- matplolib patches rectangle code:
+- ```
+  import matplotlib.pyplot as plt
+  import matplotlib.patches as patches
+  
+  # Create a rectangle
+  rectangle = patches.Rectangle((0.2, 0.3), 0.4, 0.5, color='blue')
+  
+  # Create a plot and add the rectangle
+  fig, ax = plt.subplots()
+  ax.add_patch(rectangle)
+  
+  # Set plot limits
+  ax.set_xlim(0, 1)
+  ax.set_ylim(0, 1)
+  
+  # Display the plot
+  plt.show()
+  
+  ```
+-
+-
