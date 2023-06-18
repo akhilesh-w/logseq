@@ -1,4 +1,5 @@
 - [cannibalox github](https://github.com/cannibalox)
 - [Aryan website](https://aryansawhney.com/)
 - [Aryan Github](https://github.com/sawhney17)
+- [One Stuttering Mind youtube Channel](https://www.youtube.com/@OneStutteringMind)
 -
