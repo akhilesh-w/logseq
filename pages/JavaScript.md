@@ -7,8 +7,8 @@
 	- https://javascript.info/
 	- YouTube Channels
 		- [The Net Ninja](https://www.youtube.com/c/TheNetNinja)
-		-
-		-
+		- [Traversy Media](https://www.youtube.com/c/TraversyMedia)
+		- [Programming with Mosh]({{https://www.youtube.com/c/programmingwithmosh)
 -
 - ### Frameworks
 	- [[React]]
