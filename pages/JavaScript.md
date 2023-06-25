@@ -5,7 +5,7 @@
 		- ![Eloquent_JavaScript.pdf](../assets/Eloquent_JavaScript_1685550551171_0.pdf)
 	- [JavaScript talks you have to see](https://github.com/AllThingsSmitty/must-watch-javascript)
 	- https://javascript.info/
-	- []()
+	- [MDN Docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 	-
 	- YouTube Channels
 		- [The Net Ninja](https://www.youtube.com/c/TheNetNinja)
