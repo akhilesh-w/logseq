@@ -4,7 +4,8 @@
 	- https://eloquentjavascript.net/
 		- ![Eloquent_JavaScript.pdf](../assets/Eloquent_JavaScript_1685550551171_0.pdf)
 	- [JavaScript talks you have to see](https://github.com/AllThingsSmitty/must-watch-javascript)
-	-
+	- YouTube Channels
+		- {{https://www.youtube.com/c/TheNetNinja}}
 -
 - ### Frameworks
 	- [[React]]
