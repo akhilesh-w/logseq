@@ -5,10 +5,13 @@
 		- ![Eloquent_JavaScript.pdf](../assets/Eloquent_JavaScript_1685550551171_0.pdf)
 	- [JavaScript talks you have to see](https://github.com/AllThingsSmitty/must-watch-javascript)
 	- https://javascript.info/
+	- []()
+	-
 	- YouTube Channels
 		- [The Net Ninja](https://www.youtube.com/c/TheNetNinja)
 		- [Traversy Media](https://www.youtube.com/c/TraversyMedia)
-		- [Programming with Mosh]({{https://www.youtube.com/c/programmingwithmosh)
+		- [Programming with Mosh](https://www.youtube.com/c/programmingwithmosh)
+-
 -
 - ### Frameworks
 	- [[React]]
