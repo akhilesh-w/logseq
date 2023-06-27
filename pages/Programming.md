@@ -14,6 +14,8 @@
 		- [[CSS]]
 	- Frameworks
 		- [[React]]
+		- [[Svelte]]
+		- [[Astro]]
 	- System
 		- [[Python]]
 	- Data
