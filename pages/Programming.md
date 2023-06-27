@@ -16,6 +16,7 @@
 		- [[React]]
 		- [[Svelte]]
 		- [[Astro]]
+		- [[NextJS]]
 	- System
 		- [[Python]]
 	- Data
