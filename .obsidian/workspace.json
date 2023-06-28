@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pages/B___Atomic Habits.md",
+                "file": "journals/2023_05_13.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pages/B___Atomic Habits.md",
+                "file": "journals/2023_05_13.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "pages/B___Atomic Habits.md",
+                "file": "journals/2023_05_13.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "pages/B___Atomic Habits.md"
+                "file": "journals/2023_05_13.md"
               }
             }
           }
@@ -156,24 +156,32 @@
   },
   "active": "a7939188b0f694a1",
   "lastOpenFiles": [
-    "James Clear.md",
-    "pages/B___Atomic Habits.md",
-    "Habits.md",
+    "journals/2023_05_20.md",
+    "journals/2023_05_30.md",
+    "journals/2023_05_28.md",
+    "journals/2023_05_21.md",
+    "pages/JavaScript Objects.md",
+    "pages/Great Websites.md",
+    "pages/get to work.md",
+    "pages/Get it on the page.md",
+    "pages/CEIR - Central Equipment Identity Register.md",
+    "logseq/bak/pages/Carl Sagan/2023-06-28T07_39_37.514Z.Desktop.md",
+    "logseq/bak/pages/Carl Sagan",
+    "pages/Carl Sagan.md",
+    "pages/Build Once, Sell Twice.md",
+    "pages/Bruce Lee Philosophy.md",
     "pages/B___Eat that frog.md",
-    "pages/A checklist of things to buy___rent when moving homes.md",
+    "pages/B___Atomic Habits.md",
+    "pages/amateurs.md",
     "pages/🧠 Thought Lab.md",
     "pages/'logseq-raindrop___Timeful Texts'.md",
     "pages/'DAO___VitaDAO'.md",
-    "pages/'DAO.md",
-    "pages/'All about Logseq___shortcuts'.md",
-    "pages/'All about Logseq___people'.md",
     "pages/'All about Logseq.md",
-    "journals/2023_05_21.md",
-    "journals/2023_05_20.md",
-    "journals/2023_05_13.md",
-    "2023-05-22.md",
-    "pages/Books.md",
-    "journals/2023_05_14.md",
-    "journals/2023_05_19.md"
+    "pages/'all about logseq___mods'.md",
+    "pages/'All about Logseq___people'.md",
+    "pages/Daily Journal.md",
+    "pages/settings.json (default).md",
+    "Habits.md",
+    "James Clear.md"
   ]
 }
