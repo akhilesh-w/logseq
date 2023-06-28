@@ -11,11 +11,9 @@
             "id": "a7939188b0f694a1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "journals/2023_05_13.md",
-                "mode": "source",
-                "source": false
+                "file": "assets/Eloquent_JavaScript_1685550551171_0.pdf"
               }
             }
           }
@@ -93,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "journals/2023_05_13.md",
+                "file": "assets/Eloquent_JavaScript_1685550551171_0.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "journals/2023_05_13.md",
+                "file": "assets/Eloquent_JavaScript_1685550551171_0.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "journals/2023_05_13.md"
+                "file": "assets/Eloquent_JavaScript_1685550551171_0.pdf"
               }
             }
           }
@@ -156,10 +154,11 @@
   },
   "active": "a7939188b0f694a1",
   "lastOpenFiles": [
+    "journals/2023_05_21.md",
+    "journals/2023_05_13.md",
     "journals/2023_05_20.md",
     "journals/2023_05_30.md",
     "journals/2023_05_28.md",
-    "journals/2023_05_21.md",
     "pages/JavaScript Objects.md",
     "pages/Great Websites.md",
     "pages/get to work.md",
@@ -181,7 +180,6 @@
     "pages/'All about Logseq___people'.md",
     "pages/Daily Journal.md",
     "pages/settings.json (default).md",
-    "Habits.md",
-    "James Clear.md"
+    "Habits.md"
   ]
 }
