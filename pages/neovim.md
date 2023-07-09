@@ -1,3 +1,6 @@
 - site: https://neovim.io/
 - plugins: https://neovimcraft.com/
 -
+-
+- press arrow key + number to jump that much number of lines
+-
