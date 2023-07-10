@@ -1,0 +1,4 @@
+- sites:
+	- https://wellfound.com/jobs
+	- https://www.workingnomads.com/jobs
+	-
