@@ -1,4 +1,6 @@
 - sites:
 	- https://wellfound.com/jobs
 	- https://www.workingnomads.com/jobs
+	- https://weworkremotely.com/
+	- https://remote.co/
 	-
