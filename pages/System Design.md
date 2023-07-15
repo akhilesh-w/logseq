@@ -1,0 +1,3 @@
+- Resources:
+	- https://github.com/karanpratapsingh/system-design
+	-
