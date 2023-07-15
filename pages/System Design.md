@@ -1,3 +1,4 @@
 - Resources:
 	- https://github.com/karanpratapsingh/system-design
+	- https://github.com/InterviewReady/system-design-resources
 	-

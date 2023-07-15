@@ -27,6 +27,8 @@
 		- [[Git]]
 		- [[nvim]]
 -
+- [[System Design]]
+-
 -
 - [Heaps of resources for developers.](https://furry-stick-c55.notion.site/Best-resources-list-for-developers-2779d7114ccb4815a4f86e702b2c374b)
 -
