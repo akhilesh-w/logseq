@@ -1,5 +1,7 @@
 - site: https://neovim.io/
 - plugins: https://neovimcraft.com/
+- [vim-plug](https://github.com/junegunn/vim-plug): plugin manager for neovim
+-
 -
 -
 - press arrow key + number to jump that much number of lines
