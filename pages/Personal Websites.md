@@ -9,3 +9,7 @@
 - [👋🏾 Welcome!](https://roamresearch.com/#/app/visakanv-public/page/45EU_k-rI)
 - [My Knowledge Wiki 🌿 | Everything I Know](https://wiki.nikiv.dev/)
 -
+-
+- Blog
+	- [geohot](https://geohot.github.io/blog/)
+	-
