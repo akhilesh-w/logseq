@@ -1,0 +1,4 @@
+- Equality is commonly used to mean two different things, “equality of opportunity” and “equality of outcome”.
+- Imagine a 100m race between me and [Usain Bolt](https://en.wikipedia.org/wiki/Usain_Bolt). Equality of opportunity would mean that we both start off at the same place, and both have to run the same 100m. *I will never win*. For equality of outcome, we might have to weigh Usain down with 100 lbs or give me a 50m head start to get a world where we each have a 50% chance of winning the race.
+- With all the talk of “representation”, I had imagined that meant woke people desired equality of outcome. This is an [ought statement](https://en.wikipedia.org/wiki/Is%E2%80%93ought_problem) and can’t be challenged with science, so I thought this is where we leave it.
+-
