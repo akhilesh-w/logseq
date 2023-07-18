@@ -1,0 +1,13 @@
+/* This code is used to hide the help button in the bottom right corner of the app */
+/* .cp__sidebar-help-btn {
+    display: none;
+} */
+
+.table-wrapper {
+    max-width: none;
+}
+
+/* This code stub is used to hise the references block from the page */
+.references.mt-6.flex-1.flex-row {
+    display: none;
+}
