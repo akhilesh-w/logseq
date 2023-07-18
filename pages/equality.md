@@ -1,4 +1,9 @@
 - Equality is commonly used to mean two different things, “equality of opportunity” and “equality of outcome”.
 - Imagine a 100m race between me and [Usain Bolt](https://en.wikipedia.org/wiki/Usain_Bolt). Equality of opportunity would mean that we both start off at the same place, and both have to run the same 100m. *I will never win*. For equality of outcome, we might have to weigh Usain down with 100 lbs or give me a 50m head start to get a world where we each have a 50% chance of winning the race.
 - With all the talk of “representation”, I had imagined that meant woke people desired equality of outcome. This is an [ought statement](https://en.wikipedia.org/wiki/Is%E2%80%93ought_problem) and can’t be challenged with science, so I thought this is where we leave it.
--
+- But then I asked the woke. Overwhelmingly (in Twitter poll), it turns out the woke state a preference for equality of opportunity over outcome!
+- This was surprising since the quotes above are all complaints about unequal outcomes, and implicitly assume it’s due to the “non-inclusive” nature of the industry without exploring other hypotheses.
+- After a bit more digging, I got to the core belief of wokeism:
+- **With true equality of opportunity, we will see equality of outcome. If we don’t see equality of outcome, it is because we don’t have equality of opportunity.**
+- The crazy thing about this belief is that it’s factually false, not just an opinion.
+- Factually false beliefs do a better job binding people together than true beliefs. Which cult has more traction: the “earth is round” cult or the “earth is flat” cult?

@@ -11,5 +11,5 @@
 -
 -
 - Blog
-	- [geohot](https://geohot.github.io/blog/)
+	- [[George Hotz]]'s [blog](https://geohot.github.io/blog/)
 	-
