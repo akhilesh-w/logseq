@@ -1,7 +1,15 @@
--
+- Docker -
+- VS Code -
+	- Extensions:
+		-
+- IntelliJ Idea -
+- PyCharm -
 - [Hyper](https://hyper.is/) - Terminal
 - [Scoop](https://scoop.sh/) - A command-line installer for Windows
 	- Scoop is a command-line installer and package manager for Windows that allows you to easily install and manage various software packages.
 - [[neovim]] - text editor
 - [[Git]]
+-
+- LogSeq
+- Notion
 -
