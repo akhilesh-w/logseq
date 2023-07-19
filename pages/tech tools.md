@@ -1,5 +1,5 @@
-- Docker -
-- VS Code -
+- [Docker](https://www.docker.com/) -
+- [VS Code](https://code.visualstudio.com/) - The most popular text editor
 	- Extensions:
 		-
 - IntelliJ Idea - A text editor I use for Java
@@ -12,11 +12,14 @@
 - [[Git]] -
 - [PenPot](https://penpot.app/) - Opensource Figma
 -
-- LogSeq - Open-source note taking app
-- Notion -
-- OBS - Open-source screen recording app
-- Bitwarden - Password manager
-- Cron - Calendar app
+- [LogSeq](https://logseq.com/) - Open-source note taking app
+- [Notion](https://www.notion.so/) - Project management + Note taking app
+- [OBS](https://obsproject.com/) - Open-source screen recording app
+- [Bitwarden](https://bitwarden.com/) - Password manager
+- [Cron](https://cron.com/) - Calendar app
+-
+-
+- [gitmoji](https://gitmoji.dev/)
 -
 -
 - [[mac apps]]
