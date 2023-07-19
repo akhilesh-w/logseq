@@ -18,3 +18,6 @@
 - Bitwarden - Password manager
 - Cron - Calendar app
 -
+-
+- [[mac apps]]
+-
