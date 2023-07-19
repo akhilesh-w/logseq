@@ -2,18 +2,19 @@
 - VS Code -
 	- Extensions:
 		-
-- IntelliJ Idea -
-- PyCharm -
-- Android Studio
+- IntelliJ Idea - A text editor I use for Java
+- PyCharm - A text editor I use for Python
+- Android Studio -
 - [Hyper](https://hyper.is/) - Terminal
 - [Scoop](https://scoop.sh/) - A command-line installer for Windows
 	- Scoop is a command-line installer and package manager for Windows that allows you to easily install and manage various software packages.
 - [[neovim]] - text editor
-- [[Git]]
+- [[Git]] -
+- [PenPot](https://penpot.app/) - Opensource Figma
 -
-- LogSeq
-- Notion
-- OBS
-- Bitwarden
-- Cron
+- LogSeq - Open-source note taking app
+- Notion -
+- OBS - Open-source screen recording app
+- Bitwarden - Password manager
+- Cron - Calendar app
 -
