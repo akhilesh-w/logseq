@@ -15,5 +15,6 @@
 - [Arc Browser](https://arc.net/)
   logseq.order-list-type:: number
 - logseq.order-list-type:: number
-- [RunCat](https://apps.apple.com/us/app/runcat/id1429033973?mt=12) - cat
+- [RunCat](https://apps.apple.com/us/app/runcat/id1429033973?mt=12) - cat living in the menu bar 
   logseq.order-list-type:: number
+- logseq.order-list-type:: number
