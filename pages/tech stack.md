@@ -1,0 +1,10 @@
+- web dev - html, css, javascript, typescript
+- frameworks - react, swelte, nextjs, tailwind,
+- languages - python, java,
+- backend - firebase, MySQL, MongoDB, NodeJS
+- API - postman,
+- cloud - AWS
+- design - Figma, canva,
+- other - git, neovim, vscode, intelliJ, docker,
+-
+- I code stuff and listen to music

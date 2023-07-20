@@ -7,4 +7,5 @@
 - [[Note Taking Apps]]
 - [[Read it later apps]]
 - [[tech tools]]
+- [[tech stack]]
 -
