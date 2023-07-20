@@ -1,0 +1,4 @@
+- stream title:
+	- 🚨 Setting up a fresh dev machine AMA 🚨 (p.s. I have no job)
+	- 10x prompt engineer
+	- The best jQuery stream on Twitch
