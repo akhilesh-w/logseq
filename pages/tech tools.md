@@ -30,7 +30,7 @@
 - Steam
 - Epic Games
 - VLC Media Player
--
+- [Ventoy](https://www.ventoy.net/en/index.html) - to make bootable usb
 -
 - [gitmoji](https://gitmoji.dev/)
 -
