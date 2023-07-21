@@ -6,10 +6,15 @@
 - PyCharm - A text editor I use for Python
 - Android Studio -
 - [Hyper](https://hyper.is/) - Terminal
+- Figma
 - [Scoop](https://scoop.sh/) - A command-line installer for Windows
 	- Scoop is a command-line installer and package manager for Windows that allows you to easily install and manage various software packages.
 - [[neovim]] - text editor
-- [[Git]] -
+- [[Git]]
+- Python
+- Java JDK
+-
+-
 - [PenPot](https://penpot.app/) - Opensource Figma
 -
 - [LogSeq](https://logseq.com/) - Open-source note taking app
