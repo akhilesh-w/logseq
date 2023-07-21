@@ -33,6 +33,13 @@
 - VLC Media Player
 - [Ventoy](https://www.ventoy.net/en/index.html) - to make bootable usb
 -
+- Music
+	- [Equalizer APO](https://sourceforge.net/projects/equalizerapo/) - audio equalizer for windows
+		- Extensions for Equalizer APO:
+			- [HeSuVi](https://sourceforge.net/projects/hesuvi/)
+			- [Peace Equalizer, interface Equalizer APO](https://sourceforge.net/projects/peace-equalizer-apo-extension/)
+	-
+-
 - [gitmoji](https://gitmoji.dev/)
 -
 -
