@@ -32,6 +32,7 @@
 - Epic Games
 - VLC Media Player
 - [Ventoy](https://www.ventoy.net/en/index.html) - to make bootable usb
+- [Netboot](https://netboot.xyz/) -
 -
 - Music
 	- [Equalizer APO](https://sourceforge.net/projects/equalizerapo/) - audio equalizer for windows
@@ -39,7 +40,8 @@
 			- [HeSuVi](https://sourceforge.net/projects/hesuvi/)
 			- [Peace Equalizer, interface Equalizer APO](https://sourceforge.net/projects/peace-equalizer-apo-extension/)
 	- [Auto EQ Headphone database](https://autoeq.app/)
-	- [VoiceMeter](https://vb-audio.com/Voicemeeter/index.htm) - virtual audio device used as virtual I/O to manage audio sources to and
+	- [VoiceMeter](https://vb-audio.com/Voicemeeter/index.htm) - virtual audio device used as virtual I/O to manage audio sources to and from different audio devices or applications.
+	-
 -
 - [gitmoji](https://gitmoji.dev/)
 -
