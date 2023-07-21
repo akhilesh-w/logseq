@@ -13,7 +13,8 @@
 - [[Git]]
 - Python
 - Java JDK
-- cho
+- [Chocolatey](https://chocolatey.org/) - a package manager for windows
+-
 -
 - [PenPot](https://penpot.app/) - Opensource Figma
 -
