@@ -13,7 +13,7 @@
 - [[Git]]
 - Python
 - Java JDK
--
+- cho
 -
 - [PenPot](https://penpot.app/) - Opensource Figma
 -
