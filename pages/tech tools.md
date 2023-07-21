@@ -38,7 +38,8 @@
 		- Extensions for Equalizer APO:
 			- [HeSuVi](https://sourceforge.net/projects/hesuvi/)
 			- [Peace Equalizer, interface Equalizer APO](https://sourceforge.net/projects/peace-equalizer-apo-extension/)
-	-
+	- [Auto EQ Headphone database](https://autoeq.app/)
+	- [VoiceMeter](https://vb-audio.com/Voicemeeter/index.htm) - virtual audio device used as virtual I/O to manage audio sources to and
 -
 - [gitmoji](https://gitmoji.dev/)
 -
