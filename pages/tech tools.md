@@ -14,10 +14,13 @@
 -
 - [LogSeq](https://logseq.com/) - Open-source note taking app
 - [Notion](https://www.notion.so/) - Project management + Note taking app
+- Obsidian
 - [OBS](https://obsproject.com/) - Open-source screen recording app
 - [Bitwarden](https://bitwarden.com/) - Password manager
 - [Cron](https://cron.com/) - Calendar app
--
+- Dropbox
+- Slack
+- Discord
 -
 - [gitmoji](https://gitmoji.dev/)
 -
