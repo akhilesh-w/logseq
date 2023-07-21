@@ -21,6 +21,11 @@
 - Dropbox
 - Slack
 - Discord
+- Spotify
+- Steam
+- Epic Games
+- VLC Media Player
+-
 -
 - [gitmoji](https://gitmoji.dev/)
 -

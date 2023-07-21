@@ -16,7 +16,8 @@
   logseq.order-list-type:: number
 - [Arc Browser](https://arc.net/)
   logseq.order-list-type:: number
-- logseq.order-list-type:: number
+- [Parallels Desktop](https://apps.apple.com/us/app/parallels-desktop/id1085114709?mt=12&xs=1&xcust=168992595064055qo) - VM for Mac
+  logseq.order-list-type:: number
 - [RunCat](https://apps.apple.com/us/app/runcat/id1429033973?mt=12) - cat living in the menu bar 
   logseq.order-list-type:: number
 - logseq.order-list-type:: number
