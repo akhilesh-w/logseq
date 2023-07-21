@@ -1,5 +1,5 @@
 - web dev - html, css, javascript, typescript
-- frameworks - react, swelte, nextjs, tailwind, Astra
+- UI frameworks - react, preact, swelte, vue, nextjs, tailwind, alpinejs,
 - languages - python, java, rust,
 - backend - firebase, MySQL, MongoDB, NodeJS
 - API - postman,
