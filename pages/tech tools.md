@@ -14,6 +14,7 @@
 - Python
 - Java JDK
 - [Chocolatey](https://chocolatey.org/) - a package manager for windows
+	- it installs packages from: https://community.chocolatey.org/packages
 -
 -
 - [PenPot](https://penpot.app/) - Opensource Figma
