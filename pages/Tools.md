@@ -8,4 +8,6 @@
 - [[Read it later apps]]
 - [[tech tools]]
 - [[tech stack]]
+- [[sites that can help in selling things or in sass]]
+-
 -

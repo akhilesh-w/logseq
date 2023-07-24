@@ -1,0 +1,4 @@
+- sell things:
+	- https://www.lemonsqueezy.com/ - can sell things like wallpapers and stuff here, basically it helps small sass companies just like Gumroad
+	- https://gumroad.com/ - sell things
+-
