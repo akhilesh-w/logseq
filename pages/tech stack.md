@@ -1,5 +1,6 @@
 - web dev - html, css, javascript, typescript
 - UI frameworks - react, preact, swelte, vue, nextjs, tailwind, alpinejs,
+	- React library: Framer Motion
 - languages - python, java, rust,
 - backend - firebase, MySQL, MongoDB, NodeJS
 - API - postman,
