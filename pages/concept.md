@@ -1,0 +1,9 @@
+- [[be tempted by power and clip countless articles into your PKM note library]]
+- [[you are what you eat]]
+- [[Feedback Loop]]
+- [[Selfish Gene]]
+- [[Newton's Laws of Motion]]
+- [[Changing a habit is really about replacing a routine]]
+- [[Defining a Habit]]
+- [[habits carry a ton of hidden inertia]]
+-
