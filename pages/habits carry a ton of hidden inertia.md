@@ -1,3 +1,5 @@
 - While some [[Feedback Loop]]s show immediate results, many times progress is hidden until much further along in time. This type of progress, where it's not obvious and visible is basically "hidden inertia".
 -
-- Whatever is happening above ground, below ground it's like trying to push a railroad car; nothing seems to happen for the longest time, but eventually the momentum build and takes on a life of its own, just like [[Jim Collin]]s [[Flywheel Effect]]
+- Whatever is happening above ground, below ground it's like trying to push a railroad car; nothing seems to happen for the longest time, but eventually the momentum build and takes on a life of its own, just like [[Jim Collin]]s [Flywheel Effect](https://www.jimcollins.com/concepts/the-flywheel.html)
+-
+-
