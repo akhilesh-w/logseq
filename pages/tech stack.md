@@ -21,7 +21,14 @@
 - API -
 	- [postman](https://www.postman.com/) - build and use APIs
 	- [Thunder Client](https://www.thunderclient.com/) - Rest Client for Testing APIs.
+-
+- Hosting
+	- Vercel
+	- Heroku
+	- Netlify
+	- [Coolify](https://coolify.io/) - An open-source & self-hostable Heroku / Netlify alternative.
 	-
+-
 - cloud - AWS
 - design - Figma, canva,
 - other - git, neovim, vscode, intelliJ, docker,
