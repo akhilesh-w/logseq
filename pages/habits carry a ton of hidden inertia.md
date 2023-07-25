@@ -2,4 +2,7 @@
 -
 - Whatever is happening above ground, below ground it's like trying to push a railroad car; nothing seems to happen for the longest time, but eventually the momentum build and takes on a life of its own, just like [[Jim Collin]]s [Flywheel Effect](https://www.jimcollins.com/concepts/the-flywheel.html)
 -
+- And here are a couple other riffs on that:
+	- > A rolling snowball gathers more snow.
+	- > Change your mind to change your brain, to eventually—after building up tons of inertia—change your mind.
 -
