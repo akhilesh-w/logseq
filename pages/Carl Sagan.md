@@ -1,14 +1,7 @@
+tags:: people
+
 -
-- {{video https://youtu.be/o8GA2w-qrcg}}
-	- {{youtube-timestamp 0}} "One philosopher asserted that he knew the whole secret. He surveyed the two celestial strangers from top to toe, and maintained to their faces that
-	  their persons, their worlds, their suns, and their stars, were created solely for the use of man. At this assertion our two travelers let themselves fall against
-	  each other, seized with a fit of inextinguishable laughter." That's from Voltaire's Micromegas in 1752 
-	  
-	  
-	  
-	  In the seventeenth century there was still some hope that, even if the Earth was not the center of the Universe, it might be the only "world." But Galileo's telescope revealed that "the Moon certainly does not possess a smooth and polished surface" and that other worlds might look "just like the face of the Earth itself." The Moon and the planets showed unmistakably that they had as much claim to being worlds as the Earth does—with mountains, craters, atmospheres, polar ice caps, clouds, and, in the case of Saturn, a dazzling,
-	- {{youtube-timestamp 77}} unheard-of set of circumferential rings. After millennia of philosophical debate, the issue was settled decisively in favor of "the plurality of worlds." They might be profoundly different from our planet. None of them might be as congenial for life. But the Earth was hardly the only one.
-	  This was the next in the series of Great Demotions, downlifting experiences, demonstrations of our apparent insignificance, wounds that science has, in its search for Galileo's facts, delivered to human pride. Well, som hoped, even if the Earth isn't at the center of the Universe, the Sun is. The Sun is our Sun. So the Earth is approximately at the center of the Universe. Perhaps some of our pride could in this way be salvaged. But by the nineteenth century, observational astronomy had made it clear that the Sun is but one lonely star in a great self-gravitating assemblage of suns called the Milky Way Galaxy. Far from being at the center of the Galaxy,
-	- {{youtube-timestamp 152}} our Sun with its entourage of dim and tiny planets lies in an undistinguished sector of an obscure spiral arm. We are thirty thousand light years from the Center.
-	  Well, our Milky Way is the only galaxy. The Milky Way Galaxy is one of billions, perhaps hundreds of billions of galaxies notable neither in mass nor in brightness nor in how its stars are configured and arrayed. Some modern deep sky photographs show more galaxies beyond the Milky Way than stars within the Milky Way. Every one of them is an island universe containing perhaps a hundred billion suns. Such an image is a profound sermon on humility. [Pause] The long standing view, as summarized by the philosopher Immanuel Kant, that "without man the whole of creation would be a mere wilderness, a thing in vain, and have no final end" is revealed to be self-indulgent folly. A Principle of Mediocrity seems to apply to all our circumstances. We could not have known beforehand that the evidence would be,
-	- {{youtube-timestamp 248}} so repeatedly and thoroughly, incompatible with the proposition that human beings are at center stage in the Universe. But most of the debates have now been settled decisively in favor of a position that, however painful, can be encapsulated in a single sentence: We have not been given the lead in the cosmic drama. Perhaps someone else has. Perhaps no one else has. In either case, we have good reason for humility.
+### Cosmos Quotes
+The surface of the Earth is the shore of the cosmic ocean. On this shore, we’ve learned most of what we know. Recently, we’ve waded a little way out, maybe ankle-deep, and the water seems inviting. Some part of our being knows this is where we came from. We long to return, and we can, because the cosmos is also within us. We’re made of star stuff. We are a way for the cosmos to know itself.
+-
+-
