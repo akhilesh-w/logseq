@@ -1,13 +1,19 @@
 - web dev - html, css, javascript, typescript
+-
 - UI frameworks - react, preact, swelte, vue, nextjs, tailwind, alpinejs,
 	- React library: Framer Motion
+	-
 - languages - python, java, rust,
+-
 - backend - firebase, MySQL, MongoDB, NodeJS
+-
 - API -
-	- postman
-	- [Thunder Client](https://www.thunderclient.com/)
+	- [postman](https://www.postman.com/) - build and use APIs
+	- [Thunder Client](https://www.thunderclient.com/) - Rest Client for Testing APIs.
+	-
 - cloud - AWS
 - design - Figma, canva,
 - other - git, neovim, vscode, intelliJ, docker,
 -
 - I code stuff and listen to music
+-
