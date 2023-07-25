@@ -3,7 +3,9 @@
 	- React library: Framer Motion
 - languages - python, java, rust,
 - backend - firebase, MySQL, MongoDB, NodeJS
-- API - postman,
+- API -
+	- postman
+	- [Thunder Client](https://www.thunderclient.com/)
 - cloud - AWS
 - design - Figma, canva,
 - other - git, neovim, vscode, intelliJ, docker,
