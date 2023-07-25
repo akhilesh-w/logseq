@@ -3,9 +3,20 @@
 - UI frameworks - react, preact, swelte, vue, nextjs, tailwind, alpinejs,
 	- React library: Framer Motion
 	-
-- languages - python, java, rust,
+	- Building UI components
+		- [Storybook](https://storybook.js.org/) - [github](https://github.com/storybookjs/storybook) - Storybook is a frontend workshop for building UI components and pages in isolation. Made for UI development, testing, and documentation.
+	-
+	-
+- languages - python, rust,
 -
-- backend - firebase, MySQL, MongoDB, NodeJS
+- backend -
+	- [[Firebase]]
+	- [[MySQL]]
+	- [[MongoDB]]
+	- [[NodeJS]]
+	- [[PostgreSQL]] - [link](https://www.postgresql.org/) - open source relational database
+	-
+	-
 -
 - API -
 	- [postman](https://www.postman.com/) - build and use APIs
