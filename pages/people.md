@@ -1,2 +1,3 @@
-- [[Paul Copplestone]]
+- [[Paul Copplestone]] - Founder of Supabase
+- [[Dylan Field]] - CEO of Figma
 -
