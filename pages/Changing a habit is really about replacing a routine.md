@@ -1,0 +1,2 @@
+- Habits are incredibly resilient: in some cases, people with extensive brain damage who could not even remember where they lived could still adhere to their old habits and pick up new ones. This is because learning and maintaining habits happens in the *basal ganglia*, a part of your brain that can function normally even if the rest of your brain is damaged.
+-
