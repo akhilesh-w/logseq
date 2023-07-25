@@ -1,4 +1,5 @@
-- People
+People:: [[Isaac Newton]]
+
 -
 - In classical mechanics, Newton's laws of motion are three laws that describe the relationship between the motion of an object and the forces acting on it. The first law states that an object either remains at rest or continues to move at a constant velocity, unless it is acted upon by an external force.
 -
