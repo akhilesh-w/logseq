@@ -46,6 +46,7 @@
 -
 - [gitmoji](https://gitmoji.dev/)
 -
+- [[streaming apps install]]
 -
 - [[mac apps]]
 -
