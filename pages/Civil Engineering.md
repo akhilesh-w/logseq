@@ -1,0 +1,8 @@
+- Engineering of big stuff that doesn't move 😂
+-
+- Civil Engineering nowadays is much different from what it was in olden days:
+	- City planners
+		- which include surveying
+	- [[Architectural Engineering]]
+	- [[Structural Engineering]]
+	-
