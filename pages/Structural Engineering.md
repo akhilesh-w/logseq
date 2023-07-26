@@ -1,0 +1,1 @@
+- Structural Engineering ensures that buildings are safe and are strong under their own weight and can withstand environmental effects like earthquakes or extreme weather events Structural Engineering doesn't just
