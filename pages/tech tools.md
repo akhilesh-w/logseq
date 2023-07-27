@@ -5,6 +5,7 @@
 - IntelliJ Idea - A text editor I use for Java
 - PyCharm - A text editor I use for Python
 - Android Studio -
+-
 - [Hyper](https://hyper.is/) - Terminal
 	- Plugins:
 		- Pane Navigation Plugin - hyper i hyper-pane
@@ -15,7 +16,8 @@
 		- hyper sync settings - https://www.npmjs.com/package/hyper-sync-settings
 	- Theme: https://hyper.is/themes
 		- hyper i hyper-one-dark
-	- [starship](https://starship.rs/) -
+- [starship](https://starship.rs/) - prompts for any shells (bash, zsh, cmd, powershell)
+	-
 -
 -
 - Figma
