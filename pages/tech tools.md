@@ -12,6 +12,7 @@
 		- font ligatures - hyper i hyper-font-ligatures
 		- open new tabs with the same directory- hyper i hypercwd
 		- Mark active tab by adding a symbol to it - hyper i hyper-active-tab
+		- hyper sync settings - https://www.npmjs.com/package/hyper-sync-settings
 		-
 	-
 	- Theme: https://hyper.is/themes
