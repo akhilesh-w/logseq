@@ -1,4 +1,16 @@
 - The field of engineering has a huge influence on how we live our lives. Pretty much everything around us has been engineered in some way from the infrastructure that keeps countries running roads water energy to the buildings we live in to the things we use every day our devices books even the clothes
 -
 - [[Civil Engineering]]
+- [[Architectural Engineering]]
+- [[Structural Engineering]]
+- [[Materials Engineering]]
+- [[Chemical Engineering]]
+- [[Mechanical Engineering]]
+- [[Electrical Engineering]]
+- [[Computer Engineering]]
+- [[Agricultural Engineering]]
+- [[Bio-systems Engineering]]
+- [[Environmental Engineering]]
+- [[Nuclear Engineering]]
+- [[Petroleum Engineering]]
 -
