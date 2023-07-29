@@ -10,6 +10,8 @@
 - languages -
 	- [[Python]]
 	- [[Rust]]
+	- [[Solidity]]
+	-
 -
 - backend -
 	- [[Firebase]]
