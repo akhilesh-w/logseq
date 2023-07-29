@@ -1,2 +1,4 @@
 - website: https://solana.com/
 -
+- Swap:
+	- [Jupiter](https://jup.ag/)
