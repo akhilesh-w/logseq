@@ -21,10 +21,12 @@
 	-
 -
 - API -
+  collapsed:: true
 	- [postman](https://www.postman.com/) - build and use APIs
 	- [Thunder Client](https://www.thunderclient.com/) - Rest Client for Testing APIs.
 -
 - Hosting
+  collapsed:: true
 	- Vercel
 	- Heroku
 	- Netlify
@@ -43,6 +45,7 @@
 	- Amazon SES -
 	- [Resend](https://resend.com/) -
 		- Can use [react email](https://react.email/) for creating beautiful emails using react and typescript.
+-
 -
 -
 - I code stuff and listen to music

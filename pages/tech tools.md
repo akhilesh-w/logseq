@@ -23,8 +23,12 @@
 - Figma
 - [Scoop](https://scoop.sh/) - A command-line installer for Windows
 	- Scoop is a command-line installer and package manager for Windows that allows you to easily install and manage various software packages.
-- [Chocolatey](https://chocolatey.org/) - a package manager for windows
-	- it installs packages from: https://community.chocolatey.org/packages
+- Package managers:
+	- [Chocolatey](https://chocolatey.org/) - a package manager for windows
+		- it installs packages from: https://community.chocolatey.org/packages
+	- [npm](https://www.npmjs.com/)
+	- [yarn](https://yarnpkg.com/getting-started)
+		- homebrew (for apple only)
 - [[neovim]] - text editor
 - [[Git]]
 - Python
