@@ -1,0 +1,3 @@
+- Loves Spotify more than Netflix
+- [[tech stack]]
+-
