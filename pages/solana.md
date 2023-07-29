@@ -2,6 +2,7 @@
   title:: Solana
 - [solang](https://solang.readthedocs.io/en/v0.3.1/) is a solidity compiler that allows you to write Solana programs.
 	- [Getting started with solang](https://solana.com/developers/guides/solang/getting-started)
+- [Anchor](https://www.anchor-lang.com/docs/installation) is a widely used framework in the Solana ecosystem and simplifies the process of building Solana programs.
 -
 -
 - Tools:
