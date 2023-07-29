@@ -26,9 +26,14 @@
 - Package managers:
 	- [Chocolatey](https://chocolatey.org/) - a package manager for windows
 		- it installs packages from: https://community.chocolatey.org/packages
-	- [npm](https://www.npmjs.com/)
+	- [npm](https://www.npmjs.com/) - node package manager
 	- [yarn](https://yarnpkg.com/getting-started)
-		- homebrew (for apple only)
+	- homebrew (for apple only)
+- version managers:
+	- nvm - node version manager
+	- avm - anchor version manager (https://www.anchor-lang.com/docs/installation)
+	- [gvm](https://github.com/moovweb/gvm) - go version manager
+	-
 - [[neovim]] - text editor
 - [[Git]]
 - Python
