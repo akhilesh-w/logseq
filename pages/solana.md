@@ -1,4 +1,5 @@
 - website: https://solana.com/
+  title:: Solana
 - [solang](https://solang.readthedocs.io/en/v0.3.1/) is a solidity compiler that allows you to write Solana programs.
 	- [Getting started with solang](https://solana.com/developers/guides/solang/getting-started)
 -
