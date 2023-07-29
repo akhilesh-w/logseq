@@ -2,4 +2,6 @@
 - [[Ethereum]]
 - [[Solana]]
 -
--
+- tools:
+	- [metapass](https://www.metapasshq.xyz/) - Metapass allows you to create events on Polygon and Solana and sell NFT tickets so you can token gate your event and also serve proof of attendance.
+	-
