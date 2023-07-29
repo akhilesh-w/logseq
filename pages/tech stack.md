@@ -45,3 +45,5 @@
 -
 - I code stuff and listen to music
 -
+- [[crypto]]
+-
