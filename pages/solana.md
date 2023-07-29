@@ -1,5 +1,5 @@
 - website: https://solana.com/
 -
 - Swap:
-	- [Jupiter](https://jup.ag/) - [twitter]({{twitter https://twitter.com/JupiterExchange}})
+	- [Jupiter](https://jup.ag/) - [twitter](https://twitter.com/JupiterExchange)
 	-
