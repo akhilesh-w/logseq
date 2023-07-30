@@ -9,6 +9,8 @@
 	-
 - languages -
 	- [[Python]]
+	- [[JavaScript]]
+		- [[TypeScript]]
 	- [[Rust]]
 	- [[Solidity]]
 	-
