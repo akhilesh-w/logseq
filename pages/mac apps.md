@@ -2,6 +2,8 @@
   logseq.order-list-type:: number
 - [HomeBrew](https://brew.sh/) - most popular package manager for Mac
   logseq.order-list-type:: number
+- [SetApp](https://setapp.com/) - Dozens of apps in one subscription
+  logseq.order-list-type:: number
 - [Bartender](https://www.macbartender.com/) - can manager menu bar better
   logseq.order-list-type:: number
 - [Amphetamine](https://apps.apple.com/us/app/amphetamine/id937984704?mt=12) - keeps mac awake
