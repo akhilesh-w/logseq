@@ -1,0 +1,17 @@
+- Languages:
+	- C --> Haskell (functional spectrum)
+	- C --> Python (ease of use spectrum)
+-
+- What is a computer:
+	- Processor (Stream of instruction)
+	- RAM (Instruction + Data)
+-
+- Program:
+	- text= Instructions
+	- bss = Static Data
+	- stack = local vars (control flow)
+	- heap = malloc
+-
+- What is hacking?
+	- Input -> System -> Output
+	-
