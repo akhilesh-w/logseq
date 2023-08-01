@@ -14,4 +14,17 @@
 -
 - What is hacking?
 	- Input -> System -> Output
-	-
+-
+- Getting money
+	- Capitalism is based around consent
+	- Buyer - seller
+	- Both parties must consent to the transaction.
+	- Getting money in the capitalist system:
+		- convince others to give it to you.
+	- How do you make $1,000,000 from a product.
+		- $1 from 1,000,000 people
+			- - Online only
+		- $1,000 from 1,000 people
+			- - A couple phone calls can be spent closing the deal
+		- $1,000,000 from 1 person
+			- - Tons can be spent closing the deal
