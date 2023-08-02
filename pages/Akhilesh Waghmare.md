@@ -1,3 +1,8 @@
 - Loves Spotify more than Netflix
 - [[tech stack]]
 -
+-
+-
+- https://akhilesh.super.site
+- https://akhilesh.bio.link
+-
