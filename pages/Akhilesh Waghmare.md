@@ -5,4 +5,7 @@
 -
 - https://akhilesh.super.site
 - https://akhilesh.bio.link
+- https://bento.me/akhileshw
+- https://akhileshw.carrd.co/
+- https://akhileshw.mmm.page/
 -
