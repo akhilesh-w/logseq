@@ -1,5 +1,6 @@
 - website: https://solana.com/
-  title:: Solana
+- OPOS - Only possible on solana
+-
 - [solang](https://solang.readthedocs.io/en/v0.3.1/) is a compiler that allows you to write Solana programs in solidity.
 	- [Getting started with solang](https://solana.com/developers/guides/solang/getting-started)
 - [Seahorse](https://seahorse-lang.org/), which enables Solana smart contracts to be written in Python
