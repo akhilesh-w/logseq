@@ -1,3 +1,4 @@
 - https://paul.copplest.one/
 -
+- Founder of Supabase (supabase is an open-source firebase alternative)
 -
