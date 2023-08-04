@@ -2,3 +2,4 @@
 	- we have proof of work meeting every thurday,
 	- and whatsapp and discord chats
 	- solving peoples queries and maintaining activity
+	-
