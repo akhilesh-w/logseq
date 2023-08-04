@@ -1,5 +1,7 @@
 - website: https://solana.com/
 - OPOS - Only possible on solana
+- **The Solana Mobile Stack, or SMS**, is an open-source software development kit (SDK) that gives a developer tools for creating applications on Solana mobile phone. It allows developers to build native android web3 applications.
+-
 -
 - [solang](https://solang.readthedocs.io/en/v0.3.1/) is a compiler that allows you to write Solana programs in solidity.
 	- [Getting started with solang](https://solana.com/developers/guides/solang/getting-started)
