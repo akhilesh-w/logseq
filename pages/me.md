@@ -1,0 +1,4 @@
+- I've been working with fueler
+	- we have proof of work meeting every thurday,
+	- and whatsapp and discord chats
+	- solving peoples queries and maintaining activity
