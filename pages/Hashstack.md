@@ -1,0 +1,9 @@
+- founded on: Jan 10, 2021
+- Hashstack provides permission less, under-collateralised loans upto 300% borrower's collateral.
+- $1M funding from Kane & Rao Group.
+-
+-
+- Questions:
+	- why doesn't hashstack use a more mainstream wallet like metamask, taho, coinbase, trust wallet,
+		- why does it use [argent](https://www.argent.xyz/argent-x/) and [braavos](https://braavos.app/)? haven't heard of them mostly.
+	-
