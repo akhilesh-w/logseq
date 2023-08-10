@@ -1,2 +1,3 @@
 - [rive.app](https://rive.app/) - build interactive animations
+- [EbSynth](https://ebsynth.com/) - create one frame of the animated image and then apply it to the video and then ebsynth will do the reast of the work and make the whole video with the animated face replacing the real face.
 -
