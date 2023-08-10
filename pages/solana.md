@@ -14,6 +14,6 @@
 	- Swap:
 		- [Jupiter](https://jup.ag/) - [twitter](https://twitter.com/JupiterExchange)
 		- [Raydium](https://raydium.io/swap/) -
-	- NFTs:
+	- #NFTs
 		- [mallow](https://www.mallow.art/) - buy & sell nfts
 		-
