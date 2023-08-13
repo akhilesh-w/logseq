@@ -73,6 +73,7 @@
 - [[streaming apps install]]
 -
 - [[mac apps]]
+- [[Linux apps]]
 - [[audio tools]]
 - [[Animations]]
 -

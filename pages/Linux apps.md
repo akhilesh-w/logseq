@@ -1,0 +1,3 @@
+-
+- [Hyprland](https://hyprland.org/) - dynamic tiling manager (used to manage windows)
+-
