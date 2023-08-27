@@ -1,3 +1,6 @@
 -
 - [Hyprland](https://hyprland.org/) - dynamic tiling manager (used to manage windows)
 -
+- Packages:
+	- unzip - sudo apt-get unzip (used to unzip packages)
+	-
