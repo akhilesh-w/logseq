@@ -1,4 +1,6 @@
 - [[photography]]
-- https://artvee.com #art
+- #art
+	- https://artvee.com
+	- https://same.energy/feed/Paintings
 - https://savee.it/
 -
