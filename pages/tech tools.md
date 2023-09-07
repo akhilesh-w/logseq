@@ -58,6 +58,8 @@
 - VLC Media Player
 - [Ventoy](https://www.ventoy.net/en/index.html) - to make bootable usb
 - [Netboot](https://netboot.xyz/) -
+- [HandBrake](https://handbrake.fr/) - HandBrake is a open-source tool, built by volunteers, for converting video from nearly any format to a selection of modern, widely supported codecs.
+-
 -
 - Music
 	- [Equalizer APO](https://sourceforge.net/projects/equalizerapo/) - audio equalizer for windows
