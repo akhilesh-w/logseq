@@ -60,6 +60,7 @@
 - [Netboot](https://netboot.xyz/) -
 - [HandBrake](https://handbrake.fr/) - HandBrake is a open-source tool, built by volunteers, for converting video from nearly any format to a selection of modern, widely supported codecs.
 - [AutoHotKeys](https://www.autohotkey.com/) - AutoHotkey is a free, open-source scripting language for Windows that allows users to easily create small to complex scripts for all kinds of tasks
+- [hwinfo](https://www.hwinfo.com/) - Hardware Analysis, Monitoring and Reporting for Windows and DOS.
 -
 -
 - Music
