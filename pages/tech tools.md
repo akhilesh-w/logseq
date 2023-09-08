@@ -59,6 +59,7 @@
 - [Ventoy](https://www.ventoy.net/en/index.html) - to make bootable usb
 - [Netboot](https://netboot.xyz/) -
 - [HandBrake](https://handbrake.fr/) - HandBrake is a open-source tool, built by volunteers, for converting video from nearly any format to a selection of modern, widely supported codecs.
+- [AutoHotKeys](https://www.autohotkey.com/) - AutoHotkey is a free, open-source scripting language for Windows that allows users to easily create small to complex scripts for all kinds of tasks
 -
 -
 - Music
@@ -68,6 +69,7 @@
 			- [Peace Equalizer, interface Equalizer APO](https://sourceforge.net/projects/peace-equalizer-apo-extension/)
 	- [Auto EQ Headphone database](https://autoeq.app/)
 	- [VoiceMeter](https://vb-audio.com/Voicemeeter/index.htm) - virtual audio device used as virtual I/O to manage audio sources to and from different audio devices or applications.
+	- [EarTrumpet](https://apps.microsoft.com/store/detail/eartrumpet/9NBLGGH516XP?hl=en-us&gl=us) - Volume control for Windows
 	-
 -
 - [gitmoji](https://gitmoji.dev/)
