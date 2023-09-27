@@ -4,3 +4,5 @@
 	- https://same.energy/feed/Paintings
 - https://savee.it/
 -
+- https://ideogram.ai/ - can create AI generated art
+-
