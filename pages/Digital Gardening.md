@@ -23,4 +23,5 @@
 	- [[Mister Chad]]
 	- https://mister-chad.com/welcome
 -
--
+- [Nicole van der Hoeven](https://nicolevanderhoeven.com/)
+	- https://notes.nicolevanderhoeven.com/Fork+My+Brain
