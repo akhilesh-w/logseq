@@ -11,10 +11,8 @@
             "id": "a7939188b0f694a1",
             "type": "leaf",
             "state": {
-              "type": "pdf",
-              "state": {
-                "file": "assets/Eloquent_JavaScript_1685550551171_0.pdf"
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -91,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "assets/Eloquent_JavaScript_1685550551171_0.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "assets/Eloquent_JavaScript_1685550551171_0.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "assets/Eloquent_JavaScript_1685550551171_0.pdf"
-              }
+              "state": {}
             }
           }
         ]
@@ -154,9 +148,20 @@
   },
   "active": "a7939188b0f694a1",
   "lastOpenFiles": [
-    "journals/2023_05_21.md",
+    "journals/2023_08_01.md",
+    "journals/2023_07_29.md",
+    "journals/2023_07_27.md",
+    "journals/2023_07_25.md",
+    "journals/2023_07_18.md",
+    "journals/2023_07_15.md",
+    "journals/2023_06_18.md",
     "journals/2023_05_13.md",
     "journals/2023_05_20.md",
+    "journals/2023_05_21.md",
+    "journals/2023_05_22.md",
+    "journals/2023_05_27.md",
+    "journals/2023_06_15.md",
+    "assets/Eloquent_JavaScript_1685550551171_0.pdf",
     "journals/2023_05_30.md",
     "journals/2023_05_28.md",
     "pages/JavaScript Objects.md",
@@ -170,16 +175,6 @@
     "pages/Build Once, Sell Twice.md",
     "pages/Bruce Lee Philosophy.md",
     "pages/B___Eat that frog.md",
-    "pages/B___Atomic Habits.md",
-    "pages/amateurs.md",
-    "pages/🧠 Thought Lab.md",
-    "pages/'logseq-raindrop___Timeful Texts'.md",
-    "pages/'DAO___VitaDAO'.md",
-    "pages/'All about Logseq.md",
-    "pages/'all about logseq___mods'.md",
-    "pages/'All about Logseq___people'.md",
-    "pages/Daily Journal.md",
-    "pages/settings.json (default).md",
-    "Habits.md"
+    "pages/B___Atomic Habits.md"
   ]
 }
