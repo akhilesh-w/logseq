@@ -1,0 +1,133 @@
+@font-face {
+
+  font-family: "Victor Mono Regular";
+
+  font-weight: 200 900;
+
+  font-style: normal, bold;
+
+  font-stretch: normal, bold;
+
+  src: url("https://github.com/ryanoasis/nerd-fonts/raw/master/patched-fonts/VictorMono/Semi-Bold/VictorMonoNerdFont-SemiBold.ttf");
+  src: url(VictorMonoNerdFont-SemiBold.ttf)
+
+}
+
+@font-face {
+
+  font-family: "Victor Mono Italic";
+
+  font-weight: 200 900;
+
+  font-style: italic;
+
+  font-stretch: italic;
+
+  src: url("https://github.com/ryanoasis/nerd-fonts/raw/master/patched-fonts/VictorMono/Semi-Bold-Italic/VictorMonoNerdFont-SemiBoldItalic.ttf");
+  src: url(VictorMonoNerdFont-SemiBoldItalic.ttf)
+
+}
+
+@font-face {
+
+  font-family: "Iosevka";
+
+  font-weight: 200 900;
+
+  font-style: normal, bold;
+
+  font-stretch: normal, bold;
+
+  src: url("https://github.com/ryanoasis/nerd-fonts/raw/master/patched-fonts/Iosevka/Regular/IosevkaNerdFont-Regular.ttf");
+  src: url(IosevkaNerdFont-Regular.ttf)
+
+}
+
+@font-face {
+
+  font-family: "Iosevka Bold";
+
+  font-weight: 200 900;
+
+  font-style: bold;
+
+  font-stretch: bold;
+
+  src: url("https://github.com/ryanoasis/nerd-fonts/raw/master/patched-fonts/Iosevka/Bold/IosevkaNerdFont-Bold.ttf");
+  src: url(IosevkaNerdFont-Bold.ttf)
+
+}
+
+@font-face {
+
+  font-family: "Overpass";
+
+  font-weight: 200 900;
+
+  font-style: normal, bold;
+
+  font-stretch: normal, bold;
+
+  src: url("https://github.com/ryanoasis/nerd-fonts/raw/master/patched-fonts/Overpass/Non-Mono/Regular/OverpassNerdFontPropo-Regular.otf");
+  src: url(OverpassNerdFontPropo-Regular.otf)
+}
+
+:root {
+
+  --ct-block-reference-font-family: "Victor Mono Italic";
+
+  --ct-text-size: 14px;
+
+  --ct-line-height: 1.6em;
+
+  --ls-font-family: "Only Emoji", "Overpass", "Iosevka", "Iosevka Bold", "Victor Mono Italic";
+
+  --ct-page-title-font-family: var(--ls-font-family);
+
+  --ct-code-font-family: "Iosevka";
+
+}
+
+.block-content {
+
+  --ct-text-size: 14px;
+
+  --ct-line-height: 1.6em;
+
+  --ls-font-family: "Victor Mono Italic";
+
+  --ct-page-title-font-family: var(--ls-font-family);
+
+}
+
+h1.title,
+
+.ls-block h1,
+
+.ls-block h2,
+
+.ls-block h3,
+
+.ls-block h4,
+
+.ls-block h5,
+
+.ls-block h6 {
+
+  color: var(--purple);
+
+  font-weight: var(--ls-font-weight-regular);
+
+  font-family: "Victor Mono Italic";
+
+}
+
+i {
+
+  font-family: "Victor Mono Italic";
+
+}
+
+b {
+
+  font-family: "Iosevka Bold";
