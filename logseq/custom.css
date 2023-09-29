@@ -65,7 +65,7 @@
   font-stretch: normal, bold;
 
   src: url("https://github.com/ryanoasis/nerd-fonts/raw/master/patched-fonts/Overpass/Non-Mono/Regular/OverpassNerdFontPropo-Regular.otf");
-
+  src: ()
 }
 
 :root {
