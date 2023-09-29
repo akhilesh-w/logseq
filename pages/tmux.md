@@ -1,0 +1,13 @@
+### How to use tmux?
+	- ### Creating and exiting panes:
+		- tmux → to enter into tmux
+		- ctrl + b then % → another pane on the side
+		- ctrl + b then " → another pane on the bottom
+		- ctrl + b then arrows → to move between the panes
+		- exit → to exit the pane
+	- ### Creating windows:
+		- ctrl + b then c → to create new window
+		- ctrl +b then 0 → to move to window 0
+		- ctrl + b then 1 → to move to window 1 ... and so on
+	- renaming a window:
+		-
