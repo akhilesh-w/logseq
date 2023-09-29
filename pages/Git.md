@@ -1,2 +1,15 @@
-- [[git aliases]]
+### What is Git?
+	- Git is a free and open-source Version Control System that is specifically designed to track changes in code.
+	- It was first developed in 2005.
 -
+- ### Using Git
+	- [[git aliases]]
+	- [[Cloning a remote repo with Git]]
+	-
+-
+-
+- ### Git Hosting Services
+	- Git hosting services allow you to store your Git repositories on the cloud and share them with others.
+	- [[GitHub]]
+	- [[GitLab]]
+	-

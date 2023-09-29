@@ -42,7 +42,6 @@
 -
 -
 - [PenPot](https://penpot.app/) - Opensource Figma
--
 - [LogSeq](https://logseq.com/) - Open-source note taking app
 - [Notion](https://www.notion.so/) - Project management + Note taking app
 - Obsidian
