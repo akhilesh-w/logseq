@@ -1,0 +1,6 @@
+- Jazz for a spell, piano, then came the trance, chill, simpson chill, techno chill, retro wave, nu wave, elevator music, space deck, vapor wave, coffee shop ambience, bossa nova ambience, lofi jazz
+- video game or movie sound tracks
+	- Interstellar, LoTR, Ender's Game, Pirates of the Caribbean, Fury, Star Wars, Star Trek, Game of Thrones, Skyrim, Fallout, Outer Worlds and Halo. The tracks "Hope" and "Journey's End" from Outer Worlds are both diamonds in a haystack.
+	- DOOM 2016
+	- metal
+	-
