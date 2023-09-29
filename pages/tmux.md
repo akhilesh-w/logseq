@@ -9,5 +9,13 @@
 		- ctrl + b then c → to create new window
 		- ctrl +b then 0 → to move to window 0
 		- ctrl + b then 1 → to move to window 1 ... and so on
-	- renaming a window:
+		- ctrl + b then , then type the name and hit enter → to rename the window
+		- type 'exit' and hit enter → to exit the window
+	- ### sessions
+		- ctrl + b then d → detached from session
+		- tmux ls → to see the all the sessions running
+		- tmux attach -t 0 → to reattach to the session
+		- tmux rename-session -t 0 git → to rename the session (-t → target, 0 → which session to rename, git → name of the session)
+		- tmux new -s docker → creating a new session named docker
+		- tmux kill-session -t docker → to kill the session
 		-
