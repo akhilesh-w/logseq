@@ -1,0 +1,2 @@
+- Communication is one of my top  [[Strengths Finder]] themes.
+-
