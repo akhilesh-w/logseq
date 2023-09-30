@@ -19,6 +19,8 @@
 		- [[NextJS]]
 	- System
 		- [[Python]]
+		- [[Go]]
+		- [[Rust]]
 	- Data
 		- [[API]]
 		- [[JSON]]

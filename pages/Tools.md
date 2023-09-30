@@ -1,7 +1,5 @@
 -
 -
--
--
 - [[GPT Tools]]
 - [[AI tools]]
 - [[Great Websites]]

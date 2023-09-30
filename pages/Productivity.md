@@ -1,1 +1,6 @@
+- Productivity is the field of thought dedicated to improving efficiency in doing work, however one defines it.
 - [[Interstitial journaling: combining notes, to-do and time tracking]]
+-
+- ### Best practices for productivity
+- ### Setting goals
+-
