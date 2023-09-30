@@ -11,5 +11,7 @@
 - [[sites that can help in selling things or in sass]]
 - [[dot files]]
 - [[Great Websites]]
+- [[AI tools]]
+- [[Zettelkasten]]
 -
 -

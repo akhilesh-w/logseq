@@ -1,0 +1,6 @@
+- A Zettel is also known as: Atomic Note, Evergreen Note, Permanent Note
+- A Zettel is a building block of knowledge or thought that can later be constructed to create a new piece of work.
+- It is discrete and self-contained. It may link to other Zettels, but on its own, it is a singular idea that can be applied to anything.
+- It is concept-oriented and is expressed in a complete sentence or a phrase so as to distill its meaning to the essential unit of knowledge.
+- A Zettel is like an API endpoint.
+-
