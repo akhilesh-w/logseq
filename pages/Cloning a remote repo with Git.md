@@ -10,4 +10,11 @@
 	- git status
 	- This will display all the changes you have done in the files, that git detects and weather they are ready for committing or not.
 -
+- ### Stage changes/ Add changes to the commit:
+	- git add * → this will stage all the files that are changed
+	- replace the * with the name of the files to stage the respective files.
+-
+- ### Push changes back to the repo:
+	- git push
+-
 -
