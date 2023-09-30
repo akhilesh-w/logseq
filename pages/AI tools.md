@@ -1,4 +1,5 @@
 - AI Image generation:
+	- [[Midjourney]]
 	- [Tensor art](https://tensor.art/)
 	- [Playground ai](https://playgroundai.com/)
 	- [Leonardo ai](https://leonardo.ai/)
@@ -6,4 +7,6 @@
 	- [Bing Image generator](https://www.bing.com/create)
 -
 - Audio transcription
-	-
+	- [[Whisper]]
+-
+-

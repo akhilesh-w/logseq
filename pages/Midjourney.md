@@ -1,0 +1,13 @@
+- [site](https://midjourney.com/)
+- Midjourney is a small startup that uses [[AI]]  to generate images in a variety of styles and subjects, according to users' prompts. The only way to use Midjourney is to install the Midjourney bot to a Discord server.
+-
+- ### Usage
+	- On Discord, type `/imagine`. If the Midjourney bot is installed and enabled on the channel, a dialog box should appear from Midjourney.
+-
+- ## Tips for using Midjourney
+- ### Set default settings
+- Use `/settings` to set some default settings so that you don't have to include them in your prompts each time.
+	- `--q 0.5` halves the quality of the initial output to save you time.
+	- `--v 4` to use the latest version of Midjourney
+-
+-
