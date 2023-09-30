@@ -1,8 +1,10 @@
 - Loves Spotify more than Netflix
 - [[tech stack]]
+- [[Programming]]
 - [[US colleges]]
 - [[Communication]]
 - [[people]]
+- [[Productivity]]
 -
 -
 -
