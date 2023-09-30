@@ -1,0 +1,3 @@
+- URL: https://noniin.antville.org/stories/2288458/##I+need+to+know+how+to+do+something+I+need+to+know+how+a+specific+thing+is+implemented+in+the+given+framework%2C+programming+language%2C+etc.+I+need+to+know+the+definition+of+a+pattern%2C+concept%2C+etc.
+-
+-

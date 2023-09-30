@@ -3,9 +3,6 @@
 - This concept was popularized by the German sociologist  [[Niklas Luhmann]] , who famously gave his own Zettelkasten the credit for his ability to produce many academic books and articles in a short period of time.
 - A  [[Zettel]]  is a single note in a Zettelkasten, and represents a distilled and distinct concept.
 -
-- ### Zettelkasten principles
--
--
 - ### The Zettelkasten Process
 	- Consume content
 	  logseq.order-list-type:: number
@@ -22,4 +19,10 @@
 	- Create new work around clusters of Zettel.
 	  logseq.order-list-type:: number
 -
+- The focus on atomic notes reduces feasibility
+	- Zettelkasten's focus on creating notes that are always  [[atomic]] is sometimes not feasible due to the time taken to distill an idea into an atomic idea. Zettelkasten seems to treat notes differently, holding permanent notes (*zettels*) in higher regard than fleeting or literature notes.
+	- In reality, people are likely to have more fleeting and literature notes in their systems, and these should be thought of as valuable as well.
 -
+- ### Zettelkasten in practice
+	- [[How I use my Zettelkasten as a Developer]]
+	-
