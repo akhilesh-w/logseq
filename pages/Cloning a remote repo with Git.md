@@ -1,0 +1,13 @@
+- The basic Git workflow consists of forking the repo then cloning the project files to your local computer, making changes to the files, selecting which of the files or changes you want to sync, and then pushing the files back to GitHub.
+-
+- ### Clone a repository:
+	- git clone <url>
+-
+- ### Modify files:
+	- Modify the files in whatever way necessary or needed by you or the manager of the project
+-
+- ### Check the status:
+	- git status
+	- This will display all the changes you have done in the files, that git detects and weather they are ready for committing or not.
+-
+-
