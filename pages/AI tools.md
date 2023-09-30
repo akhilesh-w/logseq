@@ -5,4 +5,5 @@
 	- [Imagine art](https://www.imagine.art/)
 	- [Bing Image generator](https://www.bing.com/create)
 -
--
+- Audio transcription
+	-
