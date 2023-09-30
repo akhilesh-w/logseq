@@ -1,4 +1,5 @@
 - [[Paul Copplestone]] - Founder of Supabase
 - [[Dylan Field]] - Founder of Figma
 - [[Melanie Perkins]] - Founder of Canva
+- [[Tom Sachs]] - artists
 -

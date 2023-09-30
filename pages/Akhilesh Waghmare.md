@@ -2,6 +2,7 @@
 - [[tech stack]]
 - [[US colleges]]
 - [[Communication]]
+- [[people]]
 -
 -
 -
