@@ -1,3 +1,16 @@
 - Go is a programming language developed by [Google] in 2009 and released in 2012. It is sometimes called "golang", and Go developers are called "gophers".
 -
--
+- ### Key features
+	- #### Go is built with performance in mind
+		- Go has some cool features that make it uniquely suited to being used for anything that needs to run quickly and efficiently. This includes load testing.
+		- [[k6 (tool)]]  is built in Go
+	- #### Reasoons why Go is so fast
+		- #### Goroutines
+			- The abstraction of goroutines on top of kernel or OS threads gives Go apps a degree of control
+			- Goroutines operate more efficiently than OS threads.
+			- [[The 1 Thread=1 Virtual User Paradigm is flawed]]
+		- #### [[Go Scheduler]] manages goroutines efficiently
+			- Go runs directly on native hardware
+			- Go is a compiled language and does not need to be interpreted, unlike [[Java]] or [[Python]]. There is no added layer of complexity.
+				- No external dependencies at all
+			-
