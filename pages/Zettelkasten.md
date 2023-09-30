@@ -15,7 +15,11 @@
 	  logseq.order-list-type:: number
 	- Create [[Permanent Notes]] from the fleeting or literature notes.
 	  logseq.order-list-type:: number
-	- - Link permanent notes to existing notes.
+	- Link permanent notes to existing notes.
 	  logseq.order-list-type:: number
-	- - Revise the Zettelkasten for clusters of notes around similar topics.
+	- Revise the Zettelkasten for clusters of notes around similar topics.
 	  logseq.order-list-type:: number
+	- Create new work around clusters of Zettel.
+	  logseq.order-list-type:: number
+-
+-
