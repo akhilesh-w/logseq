@@ -1,2 +1,12 @@
 - [site](https://www.tomsachs.com/)
 -
+- True Art
+	- Authenticity
+	- Intuition
+	- Transparency
+-
+- Art is a creative act, and too much creativity can ruin it
+	- that's what we mean when we say "creativity is the enemy" -> do the task in front of you before you  improvise
+	- "Creativity is not a leading strategy, use only when necessary"
+-
+-
