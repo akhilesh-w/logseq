@@ -1,0 +1,13 @@
+- DOB: March 25, 1981
+- 3 siblings:
+	- Dean
+	- Casey
+	- Jordan (girl)
+	- Van
+- They lived in a lower-middle-class part of Connecticut.
+- His dad was a restaurant supply salesman, he sold forks, knives and dishwashers
+- His mom and dad decided to get a divorce, he blamed his mom and had an argument with her and she told him to leave the house (he was 15 years old)
+- He stayed with some friends for a while and then moved in with two slightly older girls, one if which later became his girlfriend.
+- His girlfriend then had fight with her roommate and they decided to leave.
+- They then drove to Virginia where his big brother Van was in college.
+-
