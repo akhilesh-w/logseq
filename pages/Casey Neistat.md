@@ -10,4 +10,5 @@
 - He stayed with some friends for a while and then moved in with two slightly older girls, one if which later became his girlfriend.
 - His girlfriend then had fight with her roommate and they decided to leave.
 - They then drove to Virginia where his big brother Van was in college.
+- After 3 months of living there his girlfriend got pregnant so they moved back to Connecticut.
 -
