@@ -22,4 +22,8 @@
   logseq.order-list-type:: number
 - [RunCat](https://apps.apple.com/us/app/runcat/id1429033973?mt=12) - cat living in the menu bar 
   logseq.order-list-type:: number
+- Unsplash Wallpapers - new wallpapers whenever you want
+  logseq.order-list-type:: number
+- TinkerTool 
+  logseq.order-list-type:: number
 - logseq.order-list-type:: number
