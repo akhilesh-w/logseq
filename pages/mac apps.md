@@ -26,4 +26,12 @@
   logseq.order-list-type:: number
 - TinkerTool 
   logseq.order-list-type:: number
+- Disk Drill
+  logseq.order-list-type:: number
+- Mission Control Plus 
+  logseq.order-list-type:: number
+- ALDente - Let's you limit battery charging 
+  logseq.order-list-type:: number
+- rcmd - keyboard shortcuts to open apps 
+  logseq.order-list-type:: number
 - logseq.order-list-type:: number
