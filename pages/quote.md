@@ -1,0 +1,2 @@
+- The Best thing about democracy is everyone can vote. The worst thing about democracy is everyone can vote
+-
