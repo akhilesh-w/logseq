@@ -36,3 +36,4 @@
   logseq.order-list-type:: number
 - [Stats](https://github.com/exelban/stats) - macos system monitor which monitor ram, cpu and all
   logseq.order-list-type:: number
+- logseq.order-list-type:: number
