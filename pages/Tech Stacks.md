@@ -1,5 +1,6 @@
-- LAMP - Linux, Apache, MySQL, php
-- MERN - MongoDB, Express, React, NodeJS
-- MEAN - MongoDB, Express, Angular, NodeJS
-- RAG - Rust, AWS, Go
-- RSTY - [Rocket](, SurrealDB, Tauri, Yew
+- [[LAMP]] - Linux, Apache, MySQL, php
+- [[MERN]] - MongoDB, Express, React, NodeJS
+- [[MEAN]] - MongoDB, Express, Angular, NodeJS
+- [[RAG Stack]] - Rust, AWS, Go
+- [[RSTY]] - Rocket, SurrealDB, Tauri, Yew
+-
