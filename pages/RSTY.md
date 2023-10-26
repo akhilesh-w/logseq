@@ -1,0 +1,4 @@
+- Rocket - https://rocket.rs/
+- SurrealDB - https://surrealdb.com/docs/
+- Tauri - https://tauri.app/ -
+- Yew - https://yew.rs/ - A framework for creating reliable and efficient web applications.
