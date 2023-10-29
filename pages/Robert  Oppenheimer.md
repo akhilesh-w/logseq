@@ -1,0 +1,2 @@
+- [From the archives: Robert Oppenheimer in 1965 on if the bomb was necessary](https://youtu.be/AdtLxlttrHg?si=EAgRPKXX9Je_svzp)
+-
