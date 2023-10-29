@@ -19,3 +19,4 @@
 		- tmux new -s docker → creating a new session named docker
 		- tmux kill-session -t docker → to kill the session
 		-
+- note: ctrl + b here is a prefix and we can change it to anything we want in the tmux.conf file
