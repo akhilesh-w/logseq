@@ -64,6 +64,7 @@
 - [AutoHotKeys](https://www.autohotkey.com/) - AutoHotkey is a free, open-source scripting language for Windows that allows users to easily create small to complex scripts for all kinds of tasks
 - [hwinfo](https://www.hwinfo.com/) - Hardware Analysis, Monitoring and Reporting for Windows and DOS.
 	- [Allavsoft](https://www.allavsoft.com/) - Video and music downloader
+- [Process Lasso](https://bitsum.com/) - CPU Optimization and Automation
 -
 -
 - Music
