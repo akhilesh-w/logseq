@@ -5,4 +5,7 @@
 - https://savee.it/
 -
 - https://ideogram.ai/ - can create AI generated art
+- #movie
+	- https://flim.ai/ - find movie scenes fast
+	- https://film-grab.com/ - find movie visuals
 -
