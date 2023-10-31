@@ -1,3 +1,7 @@
+-
+	- Steam
+	- Epic Games
+	- Battel.net
 - Free
 	- https://elamigos.site/
 	-
