@@ -8,8 +8,6 @@
 
   font-stretch: normal, bold;
 
-  src: url("https://github.com/ryanoasis/nerd-fonts/raw/master/patched-fonts/VictorMono/Semi-Bold/VictorMonoNerdFont-SemiBold.ttf");
-
 }
 
 @font-face {
@@ -21,8 +19,6 @@
   font-style: italic;
 
   font-stretch: italic;
-
-  src: url("https://github.com/ryanoasis/nerd-fonts/raw/master/patched-fonts/VictorMono/Semi-Bold-Italic/VictorMonoNerdFont-SemiBoldItalic.ttf");
 
 }
 
@@ -36,8 +32,6 @@
 
   font-stretch: normal, bold;
 
-  src: url("https://github.com/ryanoasis/nerd-fonts/raw/master/patched-fonts/Iosevka/Regular/IosevkaNerdFont-Regular.ttf");
-
 }
 
 @font-face {
@@ -50,8 +44,6 @@
 
   font-stretch: bold;
 
-  src: url("https://github.com/ryanoasis/nerd-fonts/raw/master/patched-fonts/Iosevka/Bold/IosevkaNerdFont-Bold.ttf");
-
 }
 
 @font-face {
@@ -63,8 +55,6 @@
   font-style: normal, bold;
 
   font-stretch: normal, bold;
-
-  src: url("https://github.com/ryanoasis/nerd-fonts/raw/master/patched-fonts/Overpass/Non-Mono/Regular/OverpassNerdFontPropo-Regular.otf");
 }
 
 :root {

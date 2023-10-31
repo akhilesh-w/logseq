@@ -1,6 +1,6 @@
 @font-face {
 
-  font-family: "Victor Mono Regular";
+  font-family: "VictorMonoNerdFont-Regular";
 
   font-weight: 200 900;
 
@@ -8,21 +8,17 @@
 
   font-stretch: normal, bold;
 
-  src: url("C:\Users\akhi2\AppData\Local\Microsoft\Windows\Fonts\VictorMonoNerdFont-SemiBold.ttf");
-
 }
 
 @font-face {
 
-  font-family: "Victor Mono Italic";
+  font-family: "VictorMonoNerdFont-Italic";
 
   font-weight: 200 900;
 
   font-style: italic;
 
   font-stretch: italic;
-
-  src: url(C:\Users\akhi2\AppData\Local\Microsoft\Windows\Fonts\VictorMonoNerdFont-SemiBoldItalic.ttf);
 
 }
 
@@ -36,21 +32,17 @@
 
   font-stretch: normal, bold;
 
-  src: url("C:\Users\akhi2\AppData\Local\Microsoft\Windows\Fonts\IosevkaNerdFont-Regular.ttf");
-
 }
 
 @font-face {
 
-  font-family: "Iosevka Bold";
+  font-family: "IosevkaNerdFont-Bold";
 
   font-weight: 200 900;
 
   font-style: bold;
 
   font-stretch: bold;
-
-  src: url("C:\Users\akhi2\AppData\Local\Microsoft\Windows\Fonts\IosevkaNerdFont-Bold.ttf");
 
 }
 
@@ -63,8 +55,6 @@
   font-style: normal, bold;
 
   font-stretch: normal, bold;
-
-  src: url("C:\Users\akhi2\AppData\Local\Microsoft\Windows\Fonts\OverpassNerdFontPropo-Regular.otf");
 }
 
 :root {

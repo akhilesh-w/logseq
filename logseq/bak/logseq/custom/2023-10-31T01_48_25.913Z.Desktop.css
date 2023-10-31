@@ -8,8 +8,6 @@
 
   font-stretch: normal, bold;
 
-  src: url("C:\Users\akhi2\AppData\Local\Microsoft\Windows\Fonts\VictorMonoNerdFont-SemiBold.ttf");
-
 }
 
 @font-face {
@@ -21,8 +19,6 @@
   font-style: italic;
 
   font-stretch: italic;
-
-  src: url(C:\Users\akhi2\AppData\Local\Microsoft\Windows\Fonts\VictorMonoNerdFont-SemiBoldItalic.ttf);
 
 }
 
@@ -36,21 +32,17 @@
 
   font-stretch: normal, bold;
 
-  src: url("https://github.com/ryanoasis/nerd-fonts/raw/master/patched-fonts/Iosevka/Regular/IosevkaNerdFont-Regular.ttf");
-
 }
 
 @font-face {
 
-  font-family: "Iosevka Bold";
+  font-family: "IosevkaNerdFont-Bold";
 
   font-weight: 200 900;
 
   font-style: bold;
 
   font-stretch: bold;
-
-  src: url("C:\Users\akhi2\AppData\Local\Microsoft\Windows\Fonts\IosevkaNerdFont-Bold.ttf");
 
 }
 
@@ -63,8 +55,6 @@
   font-style: normal, bold;
 
   font-stretch: normal, bold;
-
-  src: url("C:\Users\akhi2\AppData\Local\Microsoft\Windows\Fonts\OverpassNerdFontPropo-Regular.otf");
 }
 
 :root {
