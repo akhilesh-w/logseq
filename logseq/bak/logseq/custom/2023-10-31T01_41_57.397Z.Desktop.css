@@ -8,8 +8,7 @@
 
   font-stretch: normal, bold;
 
-  src: url("https://github.com/ryanoasis/nerd-fonts/raw/master/patched-fonts/VictorMono/Semi-Bold/VictorMonoNerdFont-SemiBold.ttf");
-  src: local("C:\Users\akhi2\Dropbox\Akhi's home base\fonts\VictorMonoNerdFont-SemiBold.ttf")
+  src: url("C:\Users\akhi2\AppData\Local\Microsoft\Windows\Fonts\VictorMonoNerdFont-SemiBold.ttf");
 
 }
 
@@ -23,8 +22,7 @@
 
   font-stretch: italic;
 
-  src: url("https://github.com/ryanoasis/nerd-fonts/raw/master/patched-fonts/VictorMono/Semi-Bold-Italic/VictorMonoNerdFont-SemiBoldItalic.ttf");
-  src: local("C:\Users\akhi2\Dropbox\Akhi's home base\fonts")
+  src: url(C:\Users\akhi2\AppData\Local\Microsoft\Windows\Fonts\VictorMonoNerdFont-SemiBoldItalic.ttf);
 
 }
 
@@ -39,7 +37,6 @@
   font-stretch: normal, bold;
 
   src: url("https://github.com/ryanoasis/nerd-fonts/raw/master/patched-fonts/Iosevka/Regular/IosevkaNerdFont-Regular.ttf");
-  src: local("C:\Users\akhi2\Dropbox\Akhi's home base\fonts")
 
 }
 
@@ -53,8 +50,7 @@
 
   font-stretch: bold;
 
-  src: url("https://github.com/ryanoasis/nerd-fonts/raw/master/patched-fonts/Iosevka/Bold/IosevkaNerdFont-Bold.ttf");
-  src: local("C:\Users\akhi2\Dropbox\Akhi's home base\fonts")
+  src: url("C:\Users\akhi2\AppData\Local\Microsoft\Windows\Fonts\IosevkaNerdFont-Bold.ttf");
 
 }
 
@@ -69,7 +65,6 @@
   font-stretch: normal, bold;
 
   src: url("https://github.com/ryanoasis/nerd-fonts/raw/master/patched-fonts/Overpass/Non-Mono/Regular/OverpassNerdFontPropo-Regular.otf");
-  src: local("C:\Users\akhi2\Dropbox\Akhi's home base\fonts")
 }
 
 :root {
