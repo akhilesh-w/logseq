@@ -1,0 +1,72 @@
+- `:chad:`
+  ![:simp:](https://cdn.discordapp.com/emojis/1164306035230658661.gif?size=56&quality=lossless) `:simp:`
+  ![:catno:](https://cdn.discordapp.com/emojis/1164308304747565148.gif?size=56&quality=lossless) `:catno:`
+  ![:twerk:](https://cdn.discordapp.com/emojis/1163863779197599765.gif?size=56&quality=lossless) `:twerk:`
+  ![:ayowtf:](https://cdn.discordapp.com/emojis/1164305852052820038.gif?size=56&quality=lossless) `:ayowtf:`
+  ![:catpat:](https://cdn.discordapp.com/emojis/1164308285843841034.gif?size=56&quality=lossless) `:catpat:`
+  ![:squish:](https://cdn.discordapp.com/emojis/1165148461994364990.gif?size=56&quality=lossless) `:squish:`
+  ![:catvibe:](https://cdn.discordapp.com/emojis/1165148523256356924.gif?size=56&quality=lossless) `:catvibe:`
+  ![:cathello:](https://cdn.discordapp.com/emojis/1164305827243511879.gif?size=56&quality=lossless) `:cathello:`
+  ![:duckbutt:](https://cdn.discordapp.com/emojis/1164305867500421120.gif?size=56&quality=lossless) `:duckbutt:`
+  ![:angypanda:](https://cdn.discordapp.com/emojis/1165148529946263582.gif?size=56&quality=lossless) `:angypanda:`
+  ![:chikabonk:](https://cdn.discordapp.com/emojis/1163863890011111524.gif?size=56&quality=lossless) `:chikabonk:`
+  ![:gimmehugs:](https://cdn.discordapp.com/emojis/1164308313291378769.gif?size=56&quality=lossless) `:gimmehugs:`
+  ![:peepoclap:](https://cdn.discordapp.com/emojis/1164305918935179384.gif?size=56&quality=lossless) `:peepoclap:`
+  ![:pinguslap:](https://cdn.discordapp.com/emojis/1165148423922647080.gif?size=56&quality=lossless) `:pinguslap:`
+  ![:cannonball:](https://cdn.discordapp.com/emojis/1163864424159916093.gif?size=56&quality=lossless) `:cannonball:`
+  ![:kekgiggles:](https://cdn.discordapp.com/emojis/1164308242462158878.gif?size=56&quality=lossless) `:kekgiggles:`
+  ![:suneodance:](https://cdn.discordapp.com/emojis/1164306005115539537.gif?size=56&quality=lossless) `:suneodance:`
+  ![:guineadance:](https://cdn.discordapp.com/emojis/1164308294379241562.gif?size=56&quality=lossless) `:guineadance:`
+  ![:peperainsad:](https://cdn.discordapp.com/emojis/1165148488682709014.gif?size=56&quality=lossless) `:peperainsad:`
+  ![:squirtlevibe:](https://cdn.discordapp.com/emojis/1165148441215774772.gif?size=56&quality=lossless) `:squirtlevibe:`
+- ‌
+- ![:kill:](https://cdn.discordapp.com/emojis/1164308257939136602.gif?size=56&quality=lossless) `:kill:`
+  ![:yawn:](https://cdn.discordapp.com/emojis/1164308267502149653.gif?size=56&quality=lossless) `:yawn:`
+  ![:dance:](https://cdn.discordapp.com/emojis/1164308318265806949.gif?size=56&quality=lossless) `:dance:`
+  ![:vibin:](https://cdn.discordapp.com/emojis/1164305803403079771.gif?size=56&quality=lossless) `:vibin:`
+  ![:blinky:](https://cdn.discordapp.com/emojis/1164305819177857105.gif?size=56&quality=lossless) `:blinky:`
+  ![:dancey:](https://cdn.discordapp.com/emojis/1164306030721769512.gif?size=56&quality=lossless) `:dancey:`
+  ![:catfall:](https://cdn.discordapp.com/emojis/1164305954393825381.gif?size=56&quality=lossless) `:catfall:`
+  ![:excited:](https://cdn.discordapp.com/emojis/1164305891303104603.gif?size=56&quality=lossless) `:excited:`
+  ![:cutewave:](https://cdn.discordapp.com/emojis/1164308327338102886.gif?size=56&quality=lossless) `:cutewave:`
+  ![:hehehehe:](https://cdn.discordapp.com/emojis/1165148467061067786.gif?size=56&quality=lossless) `:hehehehe:`
+  ![:bongoclap:](https://cdn.discordapp.com/emojis/1164305832079523861.gif?size=56&quality=lossless) `:bongoclap:`
+  ![:chikarave:](https://cdn.discordapp.com/emojis/1165148504667193406.gif?size=56&quality=lossless) `:chikarave:`
+  ![:girldance:](https://cdn.discordapp.com/emojis/1164305876132302898.gif?size=56&quality=lossless) `:girldance:`
+  ![:pepefubye:](https://cdn.discordapp.com/emojis/1165148454348136448.gif?size=56&quality=lossless) `:pepefubye:`
+  ![:stickvibe:](https://cdn.discordapp.com/emojis/1164308252624949330.gif?size=56&quality=lossless) `:stickvibe:`
+  ![:happydance:](https://cdn.discordapp.com/emojis/1165148448333496371.gif?size=56&quality=lossless) `:happydance:`
+  ![:partykirby:](https://cdn.discordapp.com/emojis/1164308299051700255.gif?size=56&quality=lossless) `:partykirby:`
+  ![:thisisfine:](https://cdn.discordapp.com/emojis/1164305924094181429.gif?size=56&quality=lossless) `:thisisfine:`
+  ![:pepemadvibe:](https://cdn.discordapp.com/emojis/1164306010207432814.gif?size=56&quality=lossless) `:pepemadvibe:`
+  ![:reaperlaugh:](https://cdn.discordapp.com/emojis/1164305914472439858.gif?size=56&quality=lossless) `:reaperlaugh:`
+  ![:chikaeyebrows:](https://cdn.discordapp.com/emojis/1164305983816876092.gif?size=56&quality=lossless) `:chikaeyebrows:`
+- ‌
+- ![:ohno:](https://cdn.discordapp.com/emojis/1164305934386987018.gif?size=56&quality=lossless) `:ohno:`
+  ![:blush~1:](https://cdn.discordapp.com/emojis/1164308236111970374.gif?size=56&quality=lossless) `:blush:`
+  ![:imout:](https://cdn.discordapp.com/emojis/1164308225361977404.gif?size=56&quality=lossless) `:imout:`
+  ![:wavey:](https://cdn.discordapp.com/emojis/1164305997867782236.gif?size=56&quality=lossless) `:wavey:`
+  ![:cathmm:](https://cdn.discordapp.com/emojis/1165148494806405130.gif?size=56&quality=lossless) `:cathmm:`
+  ![:imback:](https://cdn.discordapp.com/emojis/1165148415588585573.gif?size=56&quality=lossless) `:imback:`
+  ![:catfite:](https://cdn.discordapp.com/emojis/1164305841739006053.gif?size=56&quality=lossless) `:catfite:`
+  ![:angybaby:](https://cdn.discordapp.com/emojis/1165148476137545828.gif?size=56&quality=lossless) `:angybaby:`
+  ![:dogopats:](https://cdn.discordapp.com/emojis/1164305794477605076.gif?size=56&quality=lossless) `:dogopats:`
+  ![:whoasked:](https://cdn.discordapp.com/emojis/1165148432655200348.gif?size=56&quality=lossless) `:whoasked:`
+  ![:bongowave:](https://cdn.discordapp.com/emojis/1164306025193668799.gif?size=56&quality=lossless) `:bongowave:`
+  ![:cooldance:](https://cdn.discordapp.com/emojis/1165148482315747348.gif?size=56&quality=lossless) `:cooldance:`
+  ![:kekhappys:](https://cdn.discordapp.com/emojis/1164305858751123516.gif?size=56&quality=lossless) `:kekhappys:`
+  ![:pepesaber:](https://cdn.discordapp.com/emojis/1164305988774539395.gif?size=56&quality=lossless) `:pepesaber:`
+  ![:burninhell:](https://cdn.discordapp.com/emojis/1165148513835946074.gif?size=56&quality=lossless) `:burninhell:`
+  ![:heartemoji:](https://cdn.discordapp.com/emojis/1164306020999385098.gif?size=56&quality=lossless) `:heartemoji:`
+  ![:pepewinkky:](https://cdn.discordapp.com/emojis/1164308275546820660.gif?size=56&quality=lossless) `:pepewinkky:`
+  ![:chikaautism:](https://cdn.discordapp.com/emojis/1163863882738188298.gif?size=56&quality=lossless) `:chikaautism:`
+  ![:pepepoggers:](https://cdn.discordapp.com/emojis/1165148534639702036.gif?size=56&quality=lossless) `:pepepoggers:`
+  ![:potatowobble:](https://cdn.discordapp.com/emojis/1167765886095081483.gif?size=56&quality=lossless) `:potatowobble:`
+  ![:theatrearrive:](https://cdn.discordapp.com/emojis/1164305882591547452.gif?size=56&quality=lossless) `:theatrearrive:`
+- ‌
+- ![:bocchihyperclap:](https://cdn.discordapp.com/emojis/1164305963721969765.gif?size=56&quality=lossless) `:bocchihyperclap:`
+  ![:peepoweirdleave:](https://cdn.discordapp.com/emojis/1164305908017405973.gif?size=56&quality=lossless) `:peepoweirdleave:`
+- ‌
+- ![:peepohappydance:](https://cdn.discordapp.com/emojis/1165148406210113550.gif?size=56&quality=lossless) `:peepohappydance:`
+- ‌
+- ![:peepostareleave:](https://cdn.discordapp.com/emojis/1164305809996517407.gif?size=56&quality=lossless) `:peepostareleave:`
