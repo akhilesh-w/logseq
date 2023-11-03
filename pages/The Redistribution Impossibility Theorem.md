@@ -1,0 +1,4 @@
+- A thorough explanation why taxing capital is bad:
+- https://mason.gmu.edu/~gjonesb/ChamleyJuddWorker.pdf
+- By [[Garett Jones]] a Professor of economics at GMU.
+-
