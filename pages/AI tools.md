@@ -10,4 +10,9 @@
 - Audio transcription
 	- [[Whisper]]
 -
--
+- Text:
+	- https://www.phind.com/
+	- https://chat.openai.com
+	- [Claude](https://chat.lmsys.org/)
+	- [OpenRouter](https://openrouter.ai/playground?models=openai/gpt-3.5-turbo,gryphe/mythomax-l2-13b-8k,meta-llama/llama-2-70b-chat)
+	-
