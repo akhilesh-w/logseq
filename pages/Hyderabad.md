@@ -7,6 +7,8 @@
 		- Third Wave Coffee
 		- Big Cup Theory
 		- Hard Rock Cafe
+		- Barista Coffee Shop Inorbit
+		- CCD Mindspace / CCD Galleria
 -
 - Malls
 	- Galleria Punjagutta
