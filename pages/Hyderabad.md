@@ -1,0 +1,13 @@
+-
+- Food places:
+	- Mandi:
+		- Kholanis Mandi
+	- Cafes:
+		- Blue Bottle Cafe
+		- Third Wave Coffee
+		- Big Cup Theory
+		- Hard Rock Cafe
+-
+- Malls
+	- Galleria Punjagutta
+	- Galleria
