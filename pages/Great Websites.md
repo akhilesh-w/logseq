@@ -9,3 +9,4 @@
 	- https://flim.ai/ - find movie scenes fast
 	- https://film-grab.com/ - find movie visuals
 -
+- https://cpu.land/ - All about how CPU works
