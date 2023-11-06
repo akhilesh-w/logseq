@@ -5,6 +5,7 @@
 - Artists:
 	- Male Artists:
 		- Weeknd
+		- Mac DeMarco
 		- Pratik Kuhad
 	- Female Artists:
 		- Taylor Swift
