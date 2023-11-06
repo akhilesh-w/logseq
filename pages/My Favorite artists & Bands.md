@@ -10,4 +10,6 @@
 		- Taylor Swift
 		- Lana Dey Rey
 		- girl in red
+		- [clairo](https://www.youtube.com/@Clairo/videos)
+		-
 		-
