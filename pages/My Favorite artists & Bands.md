@@ -1,5 +1,13 @@
 - Bands:
 	- The Lumineers
+	- The neighbourhood
 -
 - Artists:
-	-
+	- Male Artists:
+		- Weeknd
+		- Pratik Kuhad
+	- Female Artists:
+		- Taylor Swift
+		- Lana Dey Rey
+		- girl in red
+		-
