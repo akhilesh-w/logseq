@@ -1,16 +1,30 @@
 - Bands:
 	- The Lumineers
 	- The neighbourhood
+	- Cigarettes After Sex
+	- Young Stunners
+	- When Chai Met Toast
 -
 - Artists:
 	- Male Artists:
-		- Weeknd
+		- The Weeknd
+		- Kendrick Lamar
+		- NF
 		- Mac DeMarco
+		- Hozier
+		- Peter Cat Recording
+		- Kodaline
 		- Pratik Kuhad
+		- Anuv Jain
+		- Piyush Bhisekar
+		- Suzonn
+		- Lucky Ali
+		- Diljit Dosanjh
+		-
 	- Female Artists:
 		- Taylor Swift
 		- Lana Dey Rey
 		- girl in red
 		- [clairo](https://www.youtube.com/@Clairo/videos)
-		-
+		- awfultune
 		-
