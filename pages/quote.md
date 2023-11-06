@@ -1,2 +1,4 @@
 - The Best thing about democracy is everyone can vote. The worst thing about democracy is everyone can vote
 - If you always do what you always did you'll always get what you always got
+- slow is smooth and smooth is fast
+-
