@@ -1,4 +1,4 @@
 - coding for the 22nd century
 - melted fighter
 - the more you split it, the more it multiplies, such is the nature of knowledge.
--
+- “Any application that can be written in JavaScript, will eventually be written in JavaScript.”
