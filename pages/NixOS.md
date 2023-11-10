@@ -1,0 +1,4 @@
+-
+- https://zero-to-nix.com/
+- [Nix memes](https://github.com/gytis-ivaskevicius/high-quality-nix-content/blob/master/memes/virgin-arch-vs-chad-nixos.png)
+-
