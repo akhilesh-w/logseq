@@ -2,3 +2,7 @@
 - melted fighter
 - the more you split it, the more it multiplies, such is the nature of knowledge.
 - “Any application that can be written in JavaScript, will eventually be written in JavaScript.”
+- **Building the Galaxy** ![🚀](https://discord.com/assets/1ddf8fc00f9071f1019c.svg)
+- ![:stelo:](https://cdn.discordapp.com/emojis/998782485498429470.webp?size=56&quality=lossless) ![❔](https://discord.com/assets/9c72643ee19deb4577a6.svg){:height 33, :width 38}
+-
+-
