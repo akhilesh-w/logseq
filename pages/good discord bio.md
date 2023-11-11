@@ -12,6 +12,11 @@
 - Junior programmer and a casual gamer :D
 	- I may be humble in knowledge but I am confident in my curiosity.
 - Just another background character.
+- I use arch btw
+- "pity the living and above all those who live without gains"
+- 0.10x dev
+- code monkey coffee junkie
+- Front end developer from the last best place.
 -
 -
 - **Building the Galaxy** ![🚀](https://discord.com/assets/1ddf8fc00f9071f1019c.svg)
