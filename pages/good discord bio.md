@@ -4,6 +4,8 @@
 - “Any application that can be written in JavaScript, will eventually be written in JavaScript.”
 - Drilling to the center of Earth
 - Programmer/Streamer, Art/Music obsessed. Mostly not serious, unless talking jokes.
+- Oddly insensitive to grades.
+  Love jump scares and complexities.
 -
 -
 -
