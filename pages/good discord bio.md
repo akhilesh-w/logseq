@@ -9,7 +9,9 @@
 - Fighting myself I always lose
 - Trying to make a living off of code
 - I’m a full stack developer with an eye for design and an appreciation for practical, accessible solutions.
--
+- Junior programmer and a casual gamer :D
+	- I may be humble in knowledge but I am confident in my curiosity.
+- Just another background character.
 -
 -
 - **Building the Galaxy** ![🚀](https://discord.com/assets/1ddf8fc00f9071f1019c.svg)
