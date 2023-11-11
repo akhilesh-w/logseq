@@ -1,6 +1,7 @@
 - site: https://neovim.io/
 - plugins: https://neovimcraft.com/
 - [vim-plug](https://github.com/junegunn/vim-plug): plugin manager for neovim
+- neovim cheatshit: https://vim.rtorr.com/
 -
 -
 -
