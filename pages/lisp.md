@@ -1,0 +1,8 @@
+- This one is a pretty good place to start if you just wanna get a quick overview
+- {{video https://www.youtube.com/watch?v=m0TsdytmGhc&list=PL2VAYZE_4wRJi_vgpjsH75kMhN4KsuzR_}}
+-
+- ## Docs/Spec
+- http://www.lispworks.com/documentation/HyperSpec/Front/Contents.htm
+- https://lispcookbook.github.io/cl-cookbook/
+-
+- # Books
