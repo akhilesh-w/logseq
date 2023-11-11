@@ -1,2 +1,3 @@
 - https://github.com/bashbunni/dotfiles
+- https://github.com/ehllie/dotfiles/tree/main/home/neovim
 -
