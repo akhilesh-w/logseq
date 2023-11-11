@@ -16,4 +16,6 @@
 - lisp discord server:
 - https://discord.gg/YBCSkDr7
 -
+- {{video https://www.youtube.com/watch?v=QHwghMNKVtg}}
+-
 -
