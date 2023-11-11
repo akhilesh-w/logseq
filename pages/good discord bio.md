@@ -6,6 +6,9 @@
 - Programmer/Streamer, Art/Music obsessed. Mostly not serious, unless talking jokes.
 - Oddly insensitive to grades.
   Love jump scares and complexities.
+- Fighting myself I always lose
+- Trying to make a living off of code
+- I’m a full stack developer with an eye for design and an appreciation for practical, accessible solutions.
 -
 -
 -
