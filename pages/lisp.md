@@ -5,4 +5,15 @@
 - http://www.lispworks.com/documentation/HyperSpec/Front/Contents.htm
 - https://lispcookbook.github.io/cl-cookbook/
 -
-- # Books
+- ## Books
+- [https://letoverlambda.com/textmode.cl/guest/toc](https://letoverlambda.com/textmode.cl/guest/toc) (6 / 8 chapters are free)
+  [https://gigamonkeys.com/book/](https://gigamonkeys.com/book/)
+-
+- ## Tooling
+  You probably want to use Emacs or see: [https://lisp-lang.org/wiki/article/editors](https://lisp-lang.org/wiki/article/editors) (I recommend Emacs + SLY)
+  SBCL is afaik the most widely used implementation, one easy way to get up and running is to use [https://roswell.github.io/](https://roswell.github.io/)
+-
+- lisp discord server:
+- https://discord.gg/YBCSkDr7
+-
+-
