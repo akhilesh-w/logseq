@@ -17,6 +17,9 @@
 - 0.10x dev
 - code monkey coffee junkie
 - Front end developer from the last best place.
+- Yesterday I was clever, and I wanted to change the world.
+	- Today I am wise, so I am changing myself.
+-
 -
 -
 - **Building the Galaxy** ![🚀](https://discord.com/assets/1ddf8fc00f9071f1019c.svg)
