@@ -25,6 +25,8 @@
 - Shadow Wizzard Money Gang 🧙‍♂️
 - Aspiring rustacean🦀
   *"I have an approximate knowledge of many things."*
+- **Programmer:** 
+  ![:tobysmells:](https://cdn.discordapp.com/emojis/719990406552617020.gif?size=56&quality=lossless) A machine that turns coffee into code ![:reallynice_not:](https://cdn.discordapp.com/emojis/719990406770851932.gif?size=56&quality=lossless)
 -
 -
 -
