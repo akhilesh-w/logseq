@@ -28,7 +28,8 @@
 - **Programmer:** 
   ![:tobysmells:](https://cdn.discordapp.com/emojis/719990406552617020.gif?size=56&quality=lossless) A machine that turns coffee into code ![:reallynice_not:](https://cdn.discordapp.com/emojis/719990406770851932.gif?size=56&quality=lossless)
 - The dumbest wish as a kid was to be a grown up.
--
+- hi, I'm dopamine. i dont know what i want from life.
+  ping me if needed
 -
 -
 - **Building the Galaxy** ![🚀](https://discord.com/assets/1ddf8fc00f9071f1019c.svg)
