@@ -1,0 +1,2 @@
+- “To me, ‘busy’ implies that the person is out of control of their life.” – Derek Sivers
+-

@@ -30,6 +30,7 @@
 - The dumbest wish as a kid was to be a grown up.
 - hi, I'm dopamine. i dont know what i want from life.
   ping me if needed
+- high level electron manipulator
 -
 -
 - **Building the Galaxy** ![🚀](https://discord.com/assets/1ddf8fc00f9071f1019c.svg)
